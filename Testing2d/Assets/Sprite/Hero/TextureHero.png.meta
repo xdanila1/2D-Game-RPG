@@ -1,0 +1,1850 @@
+fileFormatVersion: 2
+guid: 33348fc0510464f40982d9a54cbf73cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7173108858968766242
+    second: TextureHero_0
+  - first:
+      213: -1567232381236005321
+    second: TextureHero_1
+  - first:
+      213: 3231876697502621961
+    second: TextureHero_2
+  - first:
+      213: -4590531676598616285
+    second: TextureHero_3
+  - first:
+      213: 4286306585328914519
+    second: TextureHero_4
+  - first:
+      213: -4886464058028569179
+    second: TextureHero_5
+  - first:
+      213: -6275462942058184760
+    second: TextureHero_6
+  - first:
+      213: -4609416139865703358
+    second: TextureHero_7
+  - first:
+      213: 3226019000895958752
+    second: TextureHero_8
+  - first:
+      213: 856106040450896124
+    second: TextureHero_9
+  - first:
+      213: 6958225353237398747
+    second: TextureHero_10
+  - first:
+      213: 4228541549441612954
+    second: TextureHero_11
+  - first:
+      213: -704911431999273049
+    second: TextureHero_12
+  - first:
+      213: -3735825204414918404
+    second: TextureHero_13
+  - first:
+      213: 3522965040007880311
+    second: TextureHero_14
+  - first:
+      213: -6802733475001962365
+    second: TextureHero_15
+  - first:
+      213: -5742524193325014846
+    second: TextureHero_16
+  - first:
+      213: 7883721937861520239
+    second: TextureHero_17
+  - first:
+      213: 1484600484924389800
+    second: TextureHero_18
+  - first:
+      213: -940151307380561094
+    second: TextureHero_19
+  - first:
+      213: -8450482773002074697
+    second: TextureHero_20
+  - first:
+      213: -4923316839468332470
+    second: TextureHero_21
+  - first:
+      213: -4241887853829837232
+    second: TextureHero_22
+  - first:
+      213: -6936955753973520139
+    second: TextureHero_23
+  - first:
+      213: 7579932294969366412
+    second: TextureHero_24
+  - first:
+      213: 1973822826115066428
+    second: TextureHero_25
+  - first:
+      213: 2812117712327673946
+    second: TextureHero_26
+  - first:
+      213: -3504697238304059310
+    second: TextureHero_27
+  - first:
+      213: 4916891759092345256
+    second: TextureHero_28
+  - first:
+      213: -5086507031894887016
+    second: TextureHero_29
+  - first:
+      213: -5181276955045453124
+    second: TextureHero_30
+  - first:
+      213: -544938182393684962
+    second: TextureHero_31
+  - first:
+      213: -4450625980936707466
+    second: TextureHero_32
+  - first:
+      213: 1278248264423818963
+    second: TextureHero_33
+  - first:
+      213: -919742657393780229
+    second: TextureHero_34
+  - first:
+      213: -705582286094606032
+    second: TextureHero_35
+  - first:
+      213: 2306269409721874563
+    second: TextureHero_36
+  - first:
+      213: 7365944580767336253
+    second: TextureHero_37
+  - first:
+      213: -3415076807936758293
+    second: TextureHero_38
+  - first:
+      213: 670842708256333560
+    second: TextureHero_39
+  - first:
+      213: 1838101736090099341
+    second: TextureHero_40
+  - first:
+      213: -8274498145911953237
+    second: TextureHero_41
+  - first:
+      213: 8148836703188828593
+    second: TextureHero_42
+  - first:
+      213: -6331163114072784424
+    second: TextureHero_43
+  - first:
+      213: 845331526608013374
+    second: TextureHero_44
+  - first:
+      213: -6254650770097434197
+    second: TextureHero_45
+  - first:
+      213: -6011149076766335776
+    second: TextureHero_46
+  - first:
+      213: -5607780357122947763
+    second: TextureHero_47
+  - first:
+      213: 991102237923431403
+    second: TextureHero_48
+  - first:
+      213: -2452463991808013037
+    second: TextureHero_49
+  - first:
+      213: 4650645733670922368
+    second: TextureHero_50
+  - first:
+      213: 6149024444429859876
+    second: TextureHero_51
+  - first:
+      213: 127463145642658939
+    second: TextureHero_52
+  - first:
+      213: 2170082978700748901
+    second: TextureHero_53
+  - first:
+      213: -1738975942519935959
+    second: TextureHero_54
+  - first:
+      213: -7971766427852232341
+    second: TextureHero_55
+  - first:
+      213: 4404349874065420200
+    second: TextureHero_56
+  - first:
+      213: -3961269490434499510
+    second: TextureHero_57
+  - first:
+      213: 967071739944922844
+    second: TextureHero_58
+  - first:
+      213: -6228477261714168890
+    second: TextureHero_59
+  - first:
+      213: -1951187586511006091
+    second: TextureHero_60
+  - first:
+      213: -7766540929168680525
+    second: TextureHero_61
+  - first:
+      213: -6213839936149825990
+    second: TextureHero_62
+  - first:
+      213: 5280890331347457054
+    second: TextureHero_63
+  - first:
+      213: -309938259582931465
+    second: TextureHero_64
+  - first:
+      213: -2061083633955489717
+    second: TextureHero_65
+  - first:
+      213: 2340774691030772026
+    second: TextureHero_66
+  - first:
+      213: 3724245300428365241
+    second: TextureHero_67
+  - first:
+      213: 1888854482719839069
+    second: TextureHero_68
+  - first:
+      213: 4067038343927529902
+    second: TextureHero_69
+  - first:
+      213: -4779608908434085988
+    second: TextureHero_70
+  - first:
+      213: -5398745194292159356
+    second: TextureHero_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TextureHero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed885fd5f7ff37c90800000000000000
+      internalID: -7173108858968766242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73630fbe372104ae0800000000000000
+      internalID: -1567232381236005321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901a180bbbee9dc20800000000000000
+      internalID: 3231876697502621961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f392603c72b40c0800000000000000
+      internalID: -4590531676598616285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75092f821250c7b30800000000000000
+      internalID: 4286306585328914519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad4e7d24dacf2cb0800000000000000
+      internalID: -4886464058028569179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf7e79f3b319e8a0800000000000000
+      internalID: -6275462942058184760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c3a5941701800c0800000000000000
+      internalID: -4609416139865703358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_8
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee601b603f15cc20800000000000000
+      internalID: 3226019000895958752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0542f68ef71eb00800000000000000
+      internalID: 856106040450896124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd405dea715909060800000000000000
+      internalID: 6958225353237398747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c727ca22cceaa30800000000000000
+      internalID: 4228541549441612954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7429199c6a736f0800000000000000
+      internalID: -704911431999273049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0d5e315cea72cc0800000000000000
+      internalID: -3735825204414918404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e1ac5d90614e030800000000000000
+      internalID: 3522965040007880311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38079d862f5d791a0800000000000000
+      internalID: -6802733475001962365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0a6cedba47e40b0800000000000000
+      internalID: -5742524193325014846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_17
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba03e255b986d60800000000000000
+      internalID: 7883721937861520239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a97a49764c5a9410800000000000000
+      internalID: 1484600484924389800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b6678fd59e3f2f0800000000000000
+      internalID: -940151307380561094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b547a6c0bad9ba80800000000000000
+      internalID: -8450482773002074697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8aca5b6ddcabb0800000000000000
+      internalID: -4923316839468332470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ead6fa879c125c0800000000000000
+      internalID: -4241887853829837232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f86ecdce7bfabf90800000000000000
+      internalID: -6936955753973520139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8719271344513960800000000000000
+      internalID: 7579932294969366412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6520176d646b10800000000000000
+      internalID: 1973822826115066428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_26
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5800edf826a60720800000000000000
+      internalID: 2812117712327673946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25018913e60dc5fc0800000000000000
+      internalID: -3504697238304059310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9aebb010f4c3440800000000000000
+      internalID: 4916891759092345256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895f060ddc81969b0800000000000000
+      internalID: -5086507031894887016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2299b9f086818b0800000000000000
+      internalID: -5181276955045453124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c90ed3c9dff68f0800000000000000
+      internalID: -544938182393684962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672a42230433c32c0800000000000000
+      internalID: -4450625980936707466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_33
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6cdb726004db110800000000000000
+      internalID: 1278248264423818963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_34
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf915451dea6c33f0800000000000000
+      internalID: -919742657393780229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031e58d26a44536f0800000000000000
+      internalID: -705582286094606032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38872da1fc3810020800000000000000
+      internalID: 2306269409721874563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c9dbd197193660800000000000000
+      internalID: 7365944580767336253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed214eacb53b90d0800000000000000
+      internalID: -3415076807936758293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe97cd83ef4f4900800000000000000
+      internalID: 670842708256333560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_40
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8edda05acf328910800000000000000
+      internalID: 1838101736090099341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba82a46c6c31b2d80800000000000000
+      internalID: -8274498145911953237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_42
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b14c32aecb761170800000000000000
+      internalID: 8148836703188828593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_43
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1c2a211b03328a0800000000000000
+      internalID: -6331163114072784424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_44
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38c8e07b883bbb00800000000000000
+      internalID: 845331526608013374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1183e53440339a0800000000000000
+      internalID: -6254650770097434197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecdc6b53cb149ca0800000000000000
+      internalID: -6011149076766335776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45064bf9792d22b0800000000000000
+      internalID: -5607780357122947763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_48
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3558bfb3a11cd00800000000000000
+      internalID: 991102237923431403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc8df3ef817fdd0800000000000000
+      internalID: -2452463991808013037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08824a397a96a8040800000000000000
+      internalID: 4650645733670922368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_51
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7f6d3729b55550800000000000000
+      internalID: 6149024444429859876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_52
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c0cfd3e07d4c100800000000000000
+      internalID: 127463145642658939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_53
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5686496b8fead1e10800000000000000
+      internalID: 2170082978700748901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c2621089aedd7e0800000000000000
+      internalID: -1738975942519935959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ab7b8ba89e5190800000000000000
+      internalID: -7971766427852232341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afa43e00e46f1d30800000000000000
+      internalID: 4404349874065420200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c1f0bd26eb609c0800000000000000
+      internalID: -3961269490434499510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_58
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde6cbbaf9abb6d00800000000000000
+      internalID: 967071739944922844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3edeb2ee00099a0800000000000000
+      internalID: -6228477261714168890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_60
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5761cd75a3dfbe4e0800000000000000
+      internalID: -1951187586511006091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_61
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b95e5f7c24b73490800000000000000
+      internalID: -7766540929168680525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_62
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3657aa108104c9a0800000000000000
+      internalID: -6213839936149825990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1492c9e6cd794940800000000000000
+      internalID: 5280890331347457054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fda1478bc0e2bbf0800000000000000
+      internalID: -309938259582931465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4836b1ea5f8563e0800000000000000
+      internalID: -2061083633955489717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392d16fd2a1c7020800000000000000
+      internalID: 2340774691030772026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_67
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd537c6e5d2fa330800000000000000
+      internalID: 3724245300428365241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_68
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d539beaf42f863a10800000000000000
+      internalID: 1888854482719839069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_69
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea181b163d5017830800000000000000
+      internalID: 4067038343927529902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_70
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c976e7f650b6badb0800000000000000
+      internalID: -4779608908434085988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_71
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c5e5d79ddc315b0800000000000000
+      internalID: -5398745194292159356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: fc624d316bf8a694ea1854a836fa4643, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1848 @@
+fileFormatVersion: 2
+guid: fc624d316bf8a694ea1854a836fa4643
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3297952187053354381
+    second: EmissionMapHero_0
+  - first:
+      213: 4006865565708395301
+    second: EmissionMapHero_1
+  - first:
+      213: -3047685243406424912
+    second: EmissionMapHero_2
+  - first:
+      213: 8043961785154009074
+    second: EmissionMapHero_3
+  - first:
+      213: 634332048762845285
+    second: EmissionMapHero_4
+  - first:
+      213: -8966114574979377115
+    second: EmissionMapHero_5
+  - first:
+      213: -7198358591859280480
+    second: EmissionMapHero_6
+  - first:
+      213: -6406459820323161950
+    second: EmissionMapHero_7
+  - first:
+      213: -8455812891175397824
+    second: EmissionMapHero_8
+  - first:
+      213: -6696466276736331828
+    second: EmissionMapHero_9
+  - first:
+      213: 1354766590883552813
+    second: EmissionMapHero_10
+  - first:
+      213: 1822101068212222377
+    second: EmissionMapHero_11
+  - first:
+      213: 3549806014128785095
+    second: EmissionMapHero_12
+  - first:
+      213: -127128592930967325
+    second: EmissionMapHero_13
+  - first:
+      213: 2331453379604207610
+    second: EmissionMapHero_14
+  - first:
+      213: -1118046805551918921
+    second: EmissionMapHero_15
+  - first:
+      213: -1696916791344206426
+    second: EmissionMapHero_16
+  - first:
+      213: 7315252761966409156
+    second: EmissionMapHero_17
+  - first:
+      213: -9205769111423096154
+    second: EmissionMapHero_18
+  - first:
+      213: 4493882994454622102
+    second: EmissionMapHero_19
+  - first:
+      213: -4683832775447799407
+    second: EmissionMapHero_20
+  - first:
+      213: -8291342183328224947
+    second: EmissionMapHero_21
+  - first:
+      213: 5777919497710435848
+    second: EmissionMapHero_22
+  - first:
+      213: -3067950289928195225
+    second: EmissionMapHero_23
+  - first:
+      213: 7314836310515726819
+    second: EmissionMapHero_24
+  - first:
+      213: -8025256133390432751
+    second: EmissionMapHero_25
+  - first:
+      213: 8376192191930426682
+    second: EmissionMapHero_26
+  - first:
+      213: -8369545041981227399
+    second: EmissionMapHero_27
+  - first:
+      213: -2776079043386286041
+    second: EmissionMapHero_28
+  - first:
+      213: -6810906080557952697
+    second: EmissionMapHero_29
+  - first:
+      213: -6648453738605873785
+    second: EmissionMapHero_30
+  - first:
+      213: 3849485279079035673
+    second: EmissionMapHero_31
+  - first:
+      213: -6061454064342699718
+    second: EmissionMapHero_32
+  - first:
+      213: 7397292429882164635
+    second: EmissionMapHero_33
+  - first:
+      213: -1719404832895886648
+    second: EmissionMapHero_34
+  - first:
+      213: 4140099975637106771
+    second: EmissionMapHero_35
+  - first:
+      213: -7504203202070627261
+    second: EmissionMapHero_36
+  - first:
+      213: 7074467894342721353
+    second: EmissionMapHero_37
+  - first:
+      213: -7719448630393635197
+    second: EmissionMapHero_38
+  - first:
+      213: 55510377273805539
+    second: EmissionMapHero_39
+  - first:
+      213: -2056821341831305105
+    second: EmissionMapHero_40
+  - first:
+      213: -5621243124795482702
+    second: EmissionMapHero_41
+  - first:
+      213: 311046480260147101
+    second: EmissionMapHero_42
+  - first:
+      213: -1372093923452347672
+    second: EmissionMapHero_43
+  - first:
+      213: 8537284817269579861
+    second: EmissionMapHero_44
+  - first:
+      213: -3102869573689472072
+    second: EmissionMapHero_45
+  - first:
+      213: 8212948990638650610
+    second: EmissionMapHero_46
+  - first:
+      213: -8518956863965615002
+    second: EmissionMapHero_47
+  - first:
+      213: 2315395034934138211
+    second: EmissionMapHero_48
+  - first:
+      213: 2615694177949893021
+    second: EmissionMapHero_49
+  - first:
+      213: -4290918250501332371
+    second: EmissionMapHero_50
+  - first:
+      213: 4550505111234782310
+    second: EmissionMapHero_51
+  - first:
+      213: 3403000411245662762
+    second: EmissionMapHero_52
+  - first:
+      213: -1562475675905101579
+    second: EmissionMapHero_53
+  - first:
+      213: -3074054850421724141
+    second: EmissionMapHero_54
+  - first:
+      213: 6616235976420315639
+    second: EmissionMapHero_55
+  - first:
+      213: -4225804822562825812
+    second: EmissionMapHero_56
+  - first:
+      213: 5872989142319560417
+    second: EmissionMapHero_57
+  - first:
+      213: -3518739963208537565
+    second: EmissionMapHero_58
+  - first:
+      213: -4263782510779202284
+    second: EmissionMapHero_59
+  - first:
+      213: 272312121861006932
+    second: EmissionMapHero_60
+  - first:
+      213: 4751912231641801659
+    second: EmissionMapHero_61
+  - first:
+      213: 1504344333326797767
+    second: EmissionMapHero_62
+  - first:
+      213: 410105744560189095
+    second: EmissionMapHero_63
+  - first:
+      213: -1037970124879910324
+    second: EmissionMapHero_64
+  - first:
+      213: 3643752617934229777
+    second: EmissionMapHero_65
+  - first:
+      213: -3016897767151345398
+    second: EmissionMapHero_66
+  - first:
+      213: 3524998542622003534
+    second: EmissionMapHero_67
+  - first:
+      213: 9171061212590208852
+    second: EmissionMapHero_68
+  - first:
+      213: -458413305884284346
+    second: EmissionMapHero_69
+  - first:
+      213: 8901991764937342176
+    second: EmissionMapHero_70
+  - first:
+      213: -9197135284976479397
+    second: EmissionMapHero_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EmissionMapHero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372567c85f15b32d0800000000000000
+      internalID: -3297952187053354381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5232bc2b00f3b9730800000000000000
+      internalID: 4006865565708395301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b46f8f1b6274b5d0800000000000000
+      internalID: -3047685243406424912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7fbe6ff94e1af60800000000000000
+      internalID: 8043961785154009074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b72433a99dc800800000000000000
+      internalID: 634332048762845285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_5
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528d6ee6c46f19380800000000000000
+      internalID: -8966114574979377115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b85ecffa4a1c90800000000000000
+      internalID: -7198358591859280480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a833dd7cbea717a0800000000000000
+      internalID: -6406459820323161950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_8
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 595
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046525ee9fae6aa80800000000000000
+      internalID: -8455812891175397824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf8fb4966f5113a0800000000000000
+      internalID: -6696466276736331828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e5e2b59091dc210800000000000000
+      internalID: 1354766590883552813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a936a38447694910800000000000000
+      internalID: 1822101068212222377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c601bd13c1734130800000000000000
+      internalID: 3549806014128785095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_13
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0fd81e7395c3ef0800000000000000
+      internalID: -127128592930967325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_14
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af751b50f7cfa5020800000000000000
+      internalID: 2331453379604207610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b051d0aa56eb70f0800000000000000
+      internalID: -1118046805551918921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad688e3b275378e0800000000000000
+      internalID: -1696916791344206426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_17
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 510
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5f33f01aff48560800000000000000
+      internalID: 7315252761966409156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaec5574c98e3080800000000000000
+      internalID: -9205769111423096154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe2aa16ca7d5e30800000000000000
+      internalID: 4493882994454622102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1991a1028eeaffeb0800000000000000
+      internalID: -4683832775447799407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496283b63c3fec80800000000000000
+      internalID: -8291342183328224947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e75d1ab2b4f2050800000000000000
+      internalID: 5777919497710435848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763f54c47737c65d0800000000000000
+      internalID: -3067950289928195225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e93b666ed4838560800000000000000
+      internalID: 7314836310515726819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1160db9f01090a090800000000000000
+      internalID: -8025256133390432751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_26
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 425
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35e96a6b663e3470800000000000000
+      internalID: 8376192191930426682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eb319c02769db80800000000000000
+      internalID: -8369545041981227399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ed8e71d26979d0800000000000000
+      internalID: -2776079043386286041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7419bc5610dca71a0800000000000000
+      internalID: -6810906080557952697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78577ccbc82fbb3a0800000000000000
+      internalID: -6648453738605873785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913f993477e1c6530800000000000000
+      internalID: 3849485279079035673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317188b4a361eba0800000000000000
+      internalID: -6061454064342699718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_33
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9500deb54678a660800000000000000
+      internalID: 7397292429882164635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_34
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca962e0a627328e0800000000000000
+      internalID: -1719404832895886648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 340
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350047e1ef6947930800000000000000
+      internalID: 4140099975637106771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c3b3a52f6bbd790800000000000000
+      internalID: -7504203202070627261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1439511f8d2260800000000000000
+      internalID: 7074467894342721353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef28bbe520fd490800000000000000
+      internalID: -7719448630393635197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_39
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eac0ced46635c000800000000000000
+      internalID: 55510377273805539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_40
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e3b913e3b473e0800000000000000
+      internalID: -2056821341831305105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd557e19255df1b0800000000000000
+      internalID: -5621243124795482702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_42
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97aa84302f015400800000000000000
+      internalID: 311046480260147101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_43
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9626a8d755fce0800000000000000
+      internalID: -1372093923452347672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_44
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 255
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55060bf0f478a7670800000000000000
+      internalID: 8537284817269579861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0fdbff8460f4d0800000000000000
+      internalID: -3102869573689472072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f47b69c7914af170800000000000000
+      internalID: 8212948990638650610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c247a1ed596c980800000000000000
+      internalID: -8518956863965615002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_48
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d3fb448fe12020800000000000000
+      internalID: 2315395034934138211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91c2cd0fffcc4420800000000000000
+      internalID: 2615694177949893021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a0aed5989374c0800000000000000
+      internalID: -4290918250501332371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_51
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664afbff944a62f30800000000000000
+      internalID: 4550505111234782310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_52
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a225eca18d2e93f20800000000000000
+      internalID: 3403000411245662762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_53
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 170
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0fc7fa6a8f05ae0800000000000000
+      internalID: -1562475675905101579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ceb8c8663c655d0800000000000000
+      internalID: -3074054850421724141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f151b4f09791db50800000000000000
+      internalID: 6616235976420315639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9920537ecea55c0800000000000000
+      internalID: -4225804822562825812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6fead228c018150800000000000000
+      internalID: 5872989142319560417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_58
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aebf385acea2fc0800000000000000
+      internalID: -3518739963208537565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158b7d956004d4c0800000000000000
+      internalID: -4263782510779202284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_60
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ee8b9e6277c300800000000000000
+      internalID: 272312121861006932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_61
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e7da7ffe22f140800000000000000
+      internalID: 4751912231641801659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_62
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 85
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc0d7633180e410800000000000000
+      internalID: 1504344333326797767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae6bd8700df0b500800000000000000
+      internalID: 410105744560189095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa01bbba36891f0800000000000000
+      internalID: -1037970124879910324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1119e5953b5319230800000000000000
+      internalID: 3643752617934229777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0166490773d126d0800000000000000
+      internalID: -3016897767151345398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_67
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4111ce8f7f4be030800000000000000
+      internalID: 3524998542622003534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_68
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4577dcd1597264f70800000000000000
+      internalID: 9171061212590208852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_69
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a647ee68363a9f0800000000000000
+      internalID: -458413305884284346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_70
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecfa8e685a3a8b70800000000000000
+      internalID: 8901991764937342176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_71
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 111
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5314c3df263d5080800000000000000
+      internalID: -9197135284976479397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
