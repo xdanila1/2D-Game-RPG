@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class AnimateManager : MonoBehaviour
 {
     [Header("Movement")]
@@ -32,6 +33,7 @@ public class AnimateManager : MonoBehaviour
     {
         GetInput();
         Animate();
+
     }
 
     private void FixedUpdate()

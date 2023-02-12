@@ -258,8 +258,8 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
-  spriteMeshType: 0
+  spriteExtrude: 6
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 32
@@ -329,7 +329,22 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5, y: 0.11}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -4, y: 18}
+        - {x: -7, y: 15}
+        - {x: -7, y: -6}
+        - {x: -4, y: -9}
+        - {x: -5, y: -19}
+        - {x: -2, y: -19}
+        - {x: -2, y: -7}
+        - {x: 3, y: -7}
+        - {x: 3, y: -19}
+        - {x: 6, y: -19}
+        - {x: 5, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 6}
+        - {x: 7, y: 15}
+        - {x: 4, y: 18}
       physicsShape:
       - - {x: 27.5, y: 23.5}
         - {x: 23.5, y: 21.5}
