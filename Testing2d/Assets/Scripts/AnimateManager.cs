@@ -38,6 +38,7 @@ public class AnimateManager : MonoBehaviour
 
     private void FixedUpdate()
     {
+        _rb.WakeUp();   // Возможно нагрузит систему
         Move();
     }
 

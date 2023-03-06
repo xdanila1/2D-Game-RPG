@@ -128,8 +128,11 @@ TextureImporter:
   - first:
       213: 7504058923700220638
     second: Tileset_49
+  - first:
+      213: 6576249790921849821
+    second: Tileset_50
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -188,6 +191,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -1313,6 +1317,32 @@ TextureImporter:
       bones: []
       spriteID: ed270c835d5c32860800000000000000
       internalID: 7504058923700220638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 466
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -13}
+        - {x: -11, y: -2}
+        - {x: 0, y: -1}
+        - {x: 11, y: -2}
+        - {x: 6, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb3226a758834b50800000000000000
+      internalID: 6576249790921849821
       vertices: []
       indices: 
       edges: []

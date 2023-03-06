@@ -87,6 +87,7 @@ SpriteAtlas:
   - {fileID: -8480404140891905064, guid: 0f5d5ff153dfc514d86fbd43c28bef80, type: 3}
   - {fileID: -72156938504300551, guid: 0f5d5ff153dfc514d86fbd43c28bef80, type: 3}
   - {fileID: 7769453424612927293, guid: 0f5d5ff153dfc514d86fbd43c28bef80, type: 3}
+  - {fileID: 6576249790921849821, guid: 0f5d5ff153dfc514d86fbd43c28bef80, type: 3}
   m_PackedSpriteNamesToIndex:
   - Tileset_13
   - Tileset_12
@@ -138,6 +139,7 @@ SpriteAtlas:
   - Tileset_7
   - Tileset_8
   - Tileset_9
+  - Tileset_50
   m_RenderDataMap: {}
   m_Tag: New Sprite Atlas
   m_IsVariant: 0
