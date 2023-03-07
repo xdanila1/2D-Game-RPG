@@ -1,6 +1,7 @@
 ﻿using Unity;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.Events;
 
 //enum TEEStDELETE Создает перечисление, которое будет видно во всех скриптах
 //{
@@ -12,6 +13,8 @@ class TEEStDELETE : MonoBehaviour
     private string _myName;
     private string myName;
     private int buf;
+
+    public UnityEvent Event;
 
 
     [AddComponentMenu("Transform/Follow Transform")]
