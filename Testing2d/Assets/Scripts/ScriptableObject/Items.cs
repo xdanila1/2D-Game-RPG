@@ -11,4 +11,5 @@ public class Items : ScriptableObject
     public Sprite icon;
 
     public int damage;
+
 }
