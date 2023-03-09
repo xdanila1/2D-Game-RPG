@@ -5,7 +5,7 @@ using UnityEngine;
 public class Trader : MonoBehaviour
 {
 
-    public Items[] ItemList;
+    public AssetItem[] ItemList;
     [Space(5)]
     public ItemsDisplay TradeUI;
 

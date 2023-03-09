@@ -9,11 +9,11 @@ public class NPC : MonoBehaviour
     [SerializeField]
     private int _money = 1000;
     [SerializeField]
-    private Items _weaponList;
+    private AssetItem _weaponList;
     
     public int Health { get => _health; set => _health = Mathf.Clamp(_health,0, MaxHP); }
     public int Money { get => _money; set => _money = value; }
-    public Items WeaponList1 { get => _weaponList; set => _weaponList = value; }
+    public AssetItem WeaponList1 { get => _weaponList; set => _weaponList = value; }
 
     [Range(100, 200)]
     public int MaxHP = 100;

@@ -20,7 +20,7 @@ public class ItemsDisplay : MonoBehaviour
 
     [SerializeField]
     private int _indexUsed=0;
-    private Items _itemsUsed;
+    private AssetItem _itemsUsed;
 
     private void Start()
     {
@@ -60,18 +60,18 @@ public class ItemsDisplay : MonoBehaviour
 
     private void SetItemUI()
     {
-        if (_itemsUsed.name != null) name.text = _itemsUsed.name;
-        if (_itemsUsed.cost >= 0) price.text = _itemsUsed.cost.ToString();
-        if (_itemsUsed.damage >= 0) damage.text =  _itemsUsed.damage.ToString();
-        if (_itemsUsed.icon != null) icon.sprite = _itemsUsed.icon;
+        //if (_itemsUsed.name != null) name.text = _itemsUsed.name;
+        //if (_itemsUsed.cost >= 0) price.text = _itemsUsed.cost.ToString();
+        //if (_itemsUsed.damage >= 0) damage.text =  _itemsUsed.damage.ToString();
+        //if (_itemsUsed.icon != null) icon.sprite = _itemsUsed.icon;
     }
 
 
     void LogItem()
     {
-        foreach(Items a in Trader.ItemList)
+        foreach(AssetItem a in Trader.ItemList)
         {
-            Debug.Log($"Name: {a.name} Damage:{a.damage} Cost: {a.cost}  ");
+            //Debug.Log($"Name: {a.name} Damage:{a.damage} Cost: {a.cost}  ");
         }
     }
 }
