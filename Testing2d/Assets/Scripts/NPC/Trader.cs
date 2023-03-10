@@ -4,18 +4,17 @@ using UnityEngine;
 
 public class Trader : MonoBehaviour
 {
-
-    public AssetItem[] ItemList;
     [Space(5)]
-    public ItemsDisplay TradeUI;
+    [Header("List Item")]
+    public AssetItem[] ItemList;
+    [HideInInspector] public NPC Customer { get => _customer; set => _customer = value; }
 
-    private Collider2D _areaTrade;
-    public NPC _customer;
+    [Space(5)]
+    [Header("Trade UI")]
+    [SerializeField] private ItemsDisplay TradeUI;
 
-    private void Start()
-    {
-        _areaTrade = GetComponent<Collider2D>();
-    }
+    private NPC _customer;
+
     private void OnTriggerStay2D(Collider2D collision)
     {
         if (Input.GetKey(KeyCode.E)) Trade(collision);
@@ -24,11 +23,11 @@ public class Trader : MonoBehaviour
     private void OnTriggerExit2D(Collider2D collision)
     {
         Debug.Log(collision);
-        if (collision.GetComponent<NPC>() == _customer)  TradeUI.HideUI();
+        if (collision.GetComponent<NPC>() == Customer)  TradeUI.HideUI();
     }
     private void Trade(Collider2D collision)
     {
-        _customer = collision.GetComponent<NPC>();
+        Customer = collision.GetComponent<NPC>();
         TradeUI.Trader = this;
         TradeUI.ShowUI();
     }

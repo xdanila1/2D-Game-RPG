@@ -74,7 +74,7 @@ public class AnimateManager : MonoBehaviour
     }
     void Move()
     {
-        _rb.MovePosition(_rb.position + _Direction.normalized * Speed * Time.fixedDeltaTime);
+        _rb.MovePosition(_rb.position + Speed * Time.fixedDeltaTime * _Direction.normalized);
         _movementSpeed = Mathf.Clamp(_Direction.magnitude, 0.0f, 1.0f);
     }
 
