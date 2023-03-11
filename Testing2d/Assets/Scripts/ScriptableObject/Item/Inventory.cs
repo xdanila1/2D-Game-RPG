@@ -23,5 +23,9 @@ public class Inventory : MonoBehaviour
             cell.Render(item);
         });
     }
+    public void AddItem(AssetItem item)
+    {
+        Items.Add(item);
+    }
 }
 

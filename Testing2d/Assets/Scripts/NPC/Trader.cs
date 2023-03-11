@@ -18,6 +18,7 @@ public class Trader : MonoBehaviour
     private void OnTriggerStay2D(Collider2D collision)
     {
         if (Input.GetKey(KeyCode.E)) Trade(collision);
+        if (Input.GetKey(KeyCode.Escape)) TradeUI.HideUI();
     }
 
     private void OnTriggerExit2D(Collider2D collision)
@@ -30,6 +31,11 @@ public class Trader : MonoBehaviour
         Customer = collision.GetComponent<NPC>();
         TradeUI.Trader = this;
         TradeUI.ShowUI();
+    }
+    public void ToSell(int number)
+    {
+        _customer.TakeMoney(ItemList[number].Price);
+        _customer.GetItem(ItemList[number]);
     }
 
 }

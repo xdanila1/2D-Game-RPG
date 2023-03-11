@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _name: Rust Sword
   _icon: {fileID: 21300000, guid: 9231edc49cb179e42b8ad897c43a39e7, type: 3}
+  _price: 132

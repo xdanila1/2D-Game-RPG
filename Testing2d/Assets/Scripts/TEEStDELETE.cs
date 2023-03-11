@@ -10,9 +10,6 @@ using UnityEngine.Events;
 
 class TEEStDELETE : MonoBehaviour
 {
-    private string _myName;
-    private string myName;
-    private int buf;
 
     public UnityEvent Event;
 

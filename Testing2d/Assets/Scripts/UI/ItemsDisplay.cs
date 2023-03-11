@@ -53,6 +53,11 @@ public class ItemsDisplay : MonoBehaviour
             TradePanel.SetActive(false);
         }
     }
+    public void BuyAction()
+    {
+        Trader.ToSell(_indexUsed);
+        GoldPlayerField.text = Trader.Customer.Money.ToString();
+    }
 
     private void SetItemUI()
     {
@@ -63,6 +68,10 @@ public class ItemsDisplay : MonoBehaviour
         {
             DamageField.text = weapon._A1.ToString();
         }
+        else DamageField.text = "none";
+        
+
+        
         //if (_itemsUsed.name != null) name.text = _itemsUsed.name;
         //if (_itemsUsed.cost >= 0) price.text = _itemsUsed.cost.ToString();
         //if (_itemsUsed.damage >= 0) damage.text =  _itemsUsed.damage.ToString();

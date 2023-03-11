@@ -8,12 +8,11 @@ public class NPC : MonoBehaviour
     private int _health=100;
     [SerializeField]
     private int _money = 1000;
-    [SerializeField]
-    private AssetItem _weaponList;
+    
     
     public int Health { get => _health; set => _health = Mathf.Clamp(_health,0, MaxHP); }
-    public int Money { get => _money; set => _money = value; }
-    public AssetItem WeaponList1 { get => _weaponList; set => _weaponList = value; }
+    public int Money { get => _money; private set => _money = value; }
+    [SerializeField] private Inventory Inventory;
 
     [Range(100, 200)]
     public int MaxHP = 100;
@@ -22,6 +21,10 @@ public class NPC : MonoBehaviour
     public void AddMoney(int num) => _money += num;
     public void TakeMoney(int num) => _money -= num;
     public void AddDamage(int num) => _health -= num;
+    public void GetItem(AssetItem item)
+    {
+        Inventory.AddItem(item);
+    }
  
 
     private void OnValidate() => Health = _health;
