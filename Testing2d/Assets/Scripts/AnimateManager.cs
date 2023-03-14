@@ -22,6 +22,8 @@ public class AnimateManager : MonoBehaviour
     float _movementSpeed;
     bool isOpenInventory = false;
     bool isCloseUI = false;
+    bool _triggerAttack = false;
+    
 
 
 
@@ -67,6 +69,7 @@ public class AnimateManager : MonoBehaviour
 
     void GetInput()
     {
+        _triggerAttack = Input.GetKeyDown(KeyCode.Space);
         isOpenInventory = Input.GetKeyDown(KeyCode.Tab);
         isCloseUI = Input.GetKeyDown(KeyCode.Escape);
         _Direction.x = Input.GetAxisRaw("Horizontal");
@@ -86,6 +89,7 @@ public class AnimateManager : MonoBehaviour
             Anim.SetFloat("Vertical", _Direction.y);
         }
         Anim.SetFloat("Speed", _movementSpeed);
+        if(_triggerAttack)Anim.SetTrigger("Attack");
     }
 
 }
