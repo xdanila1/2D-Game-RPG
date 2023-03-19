@@ -233,6 +233,81 @@ TextureImporter:
   - first:
       213: 3857029820179593787
     second: TextureHero_76
+  - first:
+      213: -1230958895028207581
+    second: TextureHero_77
+  - first:
+      213: -4895195439510610258
+    second: TextureHero_78
+  - first:
+      213: 4501599877440914278
+    second: TextureHero_79
+  - first:
+      213: 7811136938230937948
+    second: TextureHero_80
+  - first:
+      213: -4788310953852442178
+    second: TextureHero_81
+  - first:
+      213: 1795167444444656835
+    second: TextureHero_82
+  - first:
+      213: -8623358800380387165
+    second: TextureHero_83
+  - first:
+      213: -5317727986891831350
+    second: TextureHero_84
+  - first:
+      213: 1872046545037317861
+    second: TextureHero_85
+  - first:
+      213: 3619930250127562313
+    second: TextureHero_86
+  - first:
+      213: -9098103535792331372
+    second: TextureHero_87
+  - first:
+      213: -6658443801515952374
+    second: TextureHero_88
+  - first:
+      213: -8481289164840988216
+    second: TextureHero_89
+  - first:
+      213: 3609506296457910052
+    second: TextureHero_90
+  - first:
+      213: 6794556135016378243
+    second: TextureHero_91
+  - first:
+      213: -3819199014504529237
+    second: TextureHero_92
+  - first:
+      213: 6066613858734655764
+    second: TextureHero_93
+  - first:
+      213: 3960334530834728675
+    second: TextureHero_94
+  - first:
+      213: -1981074195736704603
+    second: TextureHero_95
+  - first:
+      213: 7700441286924644070
+    second: TextureHero_96
+  - first:
+      213: 5082233942347020947
+    second: TextureHero_97
+  - first:
+      213: 4224981977011672978
+    second: TextureHero_98
+  - first:
+      213: -1459744330421256478
+    second: TextureHero_99
+  - first:
+      213: -2438574021720524969
+    second: TextureHero_100
+  - first:
+      213: 5692346636078297702
+    second: TextureHero_101
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -339,7 +414,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 512
+        y: 832
         width: 64
         height: 64
       alignment: 9
@@ -368,7 +443,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 512
+        y: 832
         width: 64
         height: 64
       alignment: 9
@@ -402,7 +477,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 512
+        y: 832
         width: 64
         height: 64
       alignment: 9
@@ -435,7 +510,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 512
+        y: 832
         width: 64
         height: 64
       alignment: 9
@@ -469,7 +544,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 512
+        y: 832
         width: 64
         height: 64
       alignment: 9
@@ -490,7 +565,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 512
+        y: 832
         width: 64
         height: 64
       alignment: 9
@@ -511,7 +586,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 512
+        y: 832
         width: 64
         height: 64
       alignment: 9
@@ -532,7 +607,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 512
+        y: 832
         width: 64
         height: 64
       alignment: 9
@@ -553,7 +628,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 512
+        y: 832
         width: 64
         height: 64
       alignment: 9
@@ -574,7 +649,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 448
+        y: 768
         width: 64
         height: 64
       alignment: 9
@@ -595,7 +670,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 448
+        y: 768
         width: 64
         height: 64
       alignment: 9
@@ -616,7 +691,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 448
+        y: 768
         width: 64
         height: 64
       alignment: 9
@@ -637,7 +712,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 448
+        y: 768
         width: 64
         height: 64
       alignment: 9
@@ -658,7 +733,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 448
+        y: 768
         width: 64
         height: 64
       alignment: 9
@@ -679,7 +754,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 448
+        y: 768
         width: 64
         height: 64
       alignment: 9
@@ -700,7 +775,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 448
+        y: 768
         width: 64
         height: 64
       alignment: 9
@@ -721,7 +796,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 448
+        y: 768
         width: 64
         height: 64
       alignment: 9
@@ -742,7 +817,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 448
+        y: 768
         width: 64
         height: 64
       alignment: 9
@@ -763,7 +838,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 384
+        y: 704
         width: 64
         height: 64
       alignment: 9
@@ -793,7 +868,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 384
+        y: 704
         width: 64
         height: 64
       alignment: 9
@@ -819,7 +894,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 384
+        y: 704
         width: 64
         height: 64
       alignment: 9
@@ -848,7 +923,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 384
+        y: 704
         width: 64
         height: 64
       alignment: 9
@@ -877,7 +952,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 384
+        y: 704
         width: 64
         height: 64
       alignment: 9
@@ -902,7 +977,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 384
+        y: 704
         width: 64
         height: 64
       alignment: 9
@@ -928,7 +1003,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 384
+        y: 704
         width: 64
         height: 64
       alignment: 9
@@ -957,7 +1032,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 384
+        y: 704
         width: 64
         height: 64
       alignment: 9
@@ -986,7 +1061,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 384
+        y: 704
         width: 64
         height: 64
       alignment: 9
@@ -1014,7 +1089,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 320
+        y: 640
         width: 64
         height: 64
       alignment: 9
@@ -1035,7 +1110,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 320
+        y: 640
         width: 64
         height: 64
       alignment: 9
@@ -1056,7 +1131,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 320
+        y: 640
         width: 64
         height: 64
       alignment: 9
@@ -1077,7 +1152,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 320
+        y: 640
         width: 64
         height: 64
       alignment: 9
@@ -1098,7 +1173,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 320
+        y: 640
         width: 64
         height: 64
       alignment: 9
@@ -1119,7 +1194,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 320
+        y: 640
         width: 64
         height: 64
       alignment: 9
@@ -1140,7 +1215,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 320
+        y: 640
         width: 64
         height: 64
       alignment: 9
@@ -1161,7 +1236,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 320
+        y: 640
         width: 64
         height: 64
       alignment: 9
@@ -1182,7 +1257,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 320
+        y: 640
         width: 64
         height: 64
       alignment: 9
@@ -1203,7 +1278,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
+        y: 576
         width: 64
         height: 64
       alignment: 9
@@ -1224,7 +1299,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 256
+        y: 576
         width: 64
         height: 64
       alignment: 9
@@ -1245,7 +1320,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 256
+        y: 576
         width: 64
         height: 64
       alignment: 9
@@ -1266,7 +1341,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 256
+        y: 576
         width: 64
         height: 64
       alignment: 9
@@ -1287,7 +1362,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 256
+        y: 576
         width: 64
         height: 64
       alignment: 9
@@ -1308,7 +1383,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 256
+        y: 576
         width: 64
         height: 64
       alignment: 9
@@ -1329,7 +1404,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 256
+        y: 576
         width: 64
         height: 64
       alignment: 9
@@ -1350,7 +1425,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 256
+        y: 576
         width: 64
         height: 64
       alignment: 9
@@ -1371,7 +1446,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 256
+        y: 576
         width: 64
         height: 64
       alignment: 9
@@ -1392,7 +1467,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 192
+        y: 512
         width: 64
         height: 64
       alignment: 9
@@ -1413,7 +1488,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 192
+        y: 512
         width: 64
         height: 64
       alignment: 9
@@ -1434,7 +1509,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 192
+        y: 512
         width: 64
         height: 64
       alignment: 9
@@ -1455,7 +1530,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 192
+        y: 512
         width: 64
         height: 64
       alignment: 9
@@ -1476,7 +1551,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 192
+        y: 512
         width: 64
         height: 64
       alignment: 9
@@ -1497,7 +1572,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 192
+        y: 512
         width: 64
         height: 64
       alignment: 9
@@ -1518,7 +1593,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 192
+        y: 512
         width: 64
         height: 64
       alignment: 9
@@ -1539,7 +1614,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 192
+        y: 512
         width: 64
         height: 64
       alignment: 9
@@ -1560,7 +1635,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 192
+        y: 512
         width: 64
         height: 64
       alignment: 9
@@ -1581,7 +1656,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
+        y: 448
         width: 64
         height: 64
       alignment: 9
@@ -1602,7 +1677,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 128
+        y: 448
         width: 64
         height: 64
       alignment: 9
@@ -1623,7 +1698,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 128
+        y: 448
         width: 64
         height: 64
       alignment: 9
@@ -1644,7 +1719,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 128
+        y: 448
         width: 64
         height: 64
       alignment: 9
@@ -1665,7 +1740,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 128
+        y: 448
         width: 64
         height: 64
       alignment: 9
@@ -1686,7 +1761,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 128
+        y: 448
         width: 64
         height: 64
       alignment: 9
@@ -1707,7 +1782,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 128
+        y: 448
         width: 64
         height: 64
       alignment: 9
@@ -1728,7 +1803,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 128
+        y: 448
         width: 64
         height: 64
       alignment: 9
@@ -1749,7 +1824,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 128
+        y: 448
         width: 64
         height: 64
       alignment: 9
@@ -1770,7 +1845,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 384
         width: 64
         height: 64
       alignment: 9
@@ -1791,7 +1866,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 64
+        y: 384
         width: 64
         height: 64
       alignment: 9
@@ -1812,7 +1887,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 64
+        y: 384
         width: 64
         height: 64
       alignment: 9
@@ -1833,7 +1908,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 64
+        y: 384
         width: 64
         height: 64
       alignment: 9
@@ -1854,7 +1929,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 64
+        y: 384
         width: 64
         height: 64
       alignment: 9
@@ -1875,7 +1950,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 64
+        y: 384
         width: 64
         height: 64
       alignment: 9
@@ -1896,7 +1971,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 384
-        y: 64
+        y: 384
         width: 64
         height: 64
       alignment: 9
@@ -1917,7 +1992,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 448
-        y: 64
+        y: 384
         width: 64
         height: 64
       alignment: 9
@@ -1938,7 +2013,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 512
-        y: 64
+        y: 384
         width: 64
         height: 64
       alignment: 9
@@ -1959,7 +2034,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 320
         width: 64
         height: 64
       alignment: 9
@@ -1980,7 +2055,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 0
+        y: 320
         width: 64
         height: 64
       alignment: 9
@@ -2001,7 +2076,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 0
+        y: 320
         width: 64
         height: 64
       alignment: 9
@@ -2022,7 +2097,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 0
+        y: 320
         width: 64
         height: 64
       alignment: 9
@@ -2043,7 +2118,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 256
-        y: 0
+        y: 320
         width: 64
         height: 64
       alignment: 9
@@ -2055,6 +2130,531 @@ TextureImporter:
       bones: []
       spriteID: b3ab4ef9f2ce68530800000000000000
       internalID: 3857029820179593787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3208cb82861caeee0800000000000000
+      internalID: -1230958895028207581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9bd10fa5c01cb0800000000000000
+      internalID: -4895195439510610258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663cecfec35e87e30800000000000000
+      internalID: 4501599877440914278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59ff2ff8abb66c60800000000000000
+      internalID: 7811136938230937948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb963899e808c8db0800000000000000
+      internalID: -4788310953852442178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4387e8747b9e810800000000000000
+      internalID: 1795167444444656835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a69c0cdca35880800000000000000
+      internalID: -8623358800380387165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7c8290292a336b0800000000000000
+      internalID: -5317727986891831350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e652f70a68daf910800000000000000
+      internalID: 1872046545037317861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9465b8e12639c3230800000000000000
+      internalID: 3619930250127562313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4956f5bb90b0db180800000000000000
+      internalID: -9098103535792331372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a077db5f3a47893a0800000000000000
+      internalID: -6658443801515952374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1984cb0786c4a80800000000000000
+      internalID: -8481289164840988216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427d8e64ada871230800000000000000
+      internalID: 3609506296457910052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2a124ecc1b4e50800000000000000
+      internalID: 6794556135016378243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba28fe53bba7ffac0800000000000000
+      internalID: -3819199014504529237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41947578921f03450800000000000000
+      internalID: 6066613858734655764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e60e16e54fe5f630800000000000000
+      internalID: 3960334530834728675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9cb61e38fc184e0800000000000000
+      internalID: -1981074195736704603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee25e04d867dda60800000000000000
+      internalID: 7700441286924644070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39af60ff7d8b78640800000000000000
+      internalID: 5082233942347020947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297553229b622aa30800000000000000
+      internalID: 4224981977011672978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eeb95af342fdbbe0800000000000000
+      internalID: -1459744330421256478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573adce8d1782ed0800000000000000
+      internalID: -2438574021720524969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TextureHero_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66236dd2b174ffe40800000000000000
+      internalID: 5692346636078297702
       vertices: []
       indices: 
       edges: []
