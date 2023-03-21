@@ -233,6 +233,111 @@ TextureImporter:
   - first:
       213: -4919014818581572280
     second: EmissionMapHero_76
+  - first:
+      213: -411421151260833879
+    second: EmissionMapHero_77
+  - first:
+      213: 1835059750638171287
+    second: EmissionMapHero_78
+  - first:
+      213: -717551825211750652
+    second: EmissionMapHero_79
+  - first:
+      213: -7165516298439561462
+    second: EmissionMapHero_80
+  - first:
+      213: -114050936729979102
+    second: EmissionMapHero_81
+  - first:
+      213: 1321336490520047869
+    second: EmissionMapHero_82
+  - first:
+      213: 1106507972905922818
+    second: EmissionMapHero_83
+  - first:
+      213: 3438456188436552882
+    second: EmissionMapHero_84
+  - first:
+      213: 3010076877723208815
+    second: EmissionMapHero_85
+  - first:
+      213: 4766788023125633648
+    second: EmissionMapHero_86
+  - first:
+      213: -1342941488200904102
+    second: EmissionMapHero_87
+  - first:
+      213: 1277912069997598290
+    second: EmissionMapHero_88
+  - first:
+      213: 7319389477905623442
+    second: EmissionMapHero_89
+  - first:
+      213: 759900930110624684
+    second: EmissionMapHero_90
+  - first:
+      213: -2690921127873283344
+    second: EmissionMapHero_91
+  - first:
+      213: -2252556262775367811
+    second: EmissionMapHero_92
+  - first:
+      213: -5008858836648456730
+    second: EmissionMapHero_93
+  - first:
+      213: -8832887850799120531
+    second: EmissionMapHero_94
+  - first:
+      213: -5459730069835651787
+    second: EmissionMapHero_95
+  - first:
+      213: -5453922059166317911
+    second: EmissionMapHero_96
+  - first:
+      213: -1129903830168284927
+    second: EmissionMapHero_97
+  - first:
+      213: -8869500014511867578
+    second: EmissionMapHero_98
+  - first:
+      213: 2779573369246393385
+    second: EmissionMapHero_99
+  - first:
+      213: 6244612907960592157
+    second: EmissionMapHero_100
+  - first:
+      213: -1683573930958229770
+    second: EmissionMapHero_101
+  - first:
+      213: -4504639879600026943
+    second: EmissionMapHero_102
+  - first:
+      213: 2816306832443919838
+    second: EmissionMapHero_103
+  - first:
+      213: -2381557829146939834
+    second: EmissionMapHero_104
+  - first:
+      213: -8013774574481389149
+    second: EmissionMapHero_105
+  - first:
+      213: 6518277000247656303
+    second: EmissionMapHero_106
+  - first:
+      213: 1312604927928046469
+    second: EmissionMapHero_107
+  - first:
+      213: -1128767249134557714
+    second: EmissionMapHero_108
+  - first:
+      213: 1027722820674548014
+    second: EmissionMapHero_109
+  - first:
+      213: 6129891959501879105
+    second: EmissionMapHero_110
+  - first:
+      213: 4158311121806227906
+    second: EmissionMapHero_111
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -339,9 +444,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 512
-        width: 64
-        height: 64
+        y: 1200
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,10 +464,10 @@ TextureImporter:
       name: EmissionMapHero_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 512
-        width: 64
-        height: 64
+        x: 80
+        y: 1200
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,10 +485,10 @@ TextureImporter:
       name: EmissionMapHero_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 512
-        width: 64
-        height: 64
+        x: 160
+        y: 1200
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,10 +506,10 @@ TextureImporter:
       name: EmissionMapHero_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 512
-        width: 64
-        height: 64
+        x: 240
+        y: 1200
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -422,10 +527,10 @@ TextureImporter:
       name: EmissionMapHero_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 512
-        width: 64
-        height: 64
+        x: 320
+        y: 1200
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -443,10 +548,10 @@ TextureImporter:
       name: EmissionMapHero_5
       rect:
         serializedVersion: 2
-        x: 320
-        y: 512
-        width: 64
-        height: 64
+        x: 400
+        y: 1200
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,10 +569,10 @@ TextureImporter:
       name: EmissionMapHero_6
       rect:
         serializedVersion: 2
-        x: 384
-        y: 512
-        width: 64
-        height: 64
+        x: 480
+        y: 1200
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,10 +590,10 @@ TextureImporter:
       name: EmissionMapHero_7
       rect:
         serializedVersion: 2
-        x: 448
-        y: 512
-        width: 64
-        height: 64
+        x: 560
+        y: 1200
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +611,10 @@ TextureImporter:
       name: EmissionMapHero_8
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
-        width: 64
-        height: 64
+        x: 640
+        y: 1200
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,9 +633,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 448
-        width: 64
-        height: 64
+        y: 1120
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -548,10 +653,10 @@ TextureImporter:
       name: EmissionMapHero_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 448
-        width: 64
-        height: 64
+        x: 80
+        y: 1120
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -569,10 +674,10 @@ TextureImporter:
       name: EmissionMapHero_11
       rect:
         serializedVersion: 2
-        x: 128
-        y: 448
-        width: 64
-        height: 64
+        x: 160
+        y: 1120
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -590,10 +695,10 @@ TextureImporter:
       name: EmissionMapHero_12
       rect:
         serializedVersion: 2
-        x: 192
-        y: 448
-        width: 64
-        height: 64
+        x: 240
+        y: 1120
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -611,10 +716,10 @@ TextureImporter:
       name: EmissionMapHero_13
       rect:
         serializedVersion: 2
-        x: 256
-        y: 448
-        width: 64
-        height: 64
+        x: 320
+        y: 1120
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,10 +737,10 @@ TextureImporter:
       name: EmissionMapHero_14
       rect:
         serializedVersion: 2
-        x: 320
-        y: 448
-        width: 64
-        height: 64
+        x: 400
+        y: 1120
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,10 +758,10 @@ TextureImporter:
       name: EmissionMapHero_15
       rect:
         serializedVersion: 2
-        x: 384
-        y: 448
-        width: 64
-        height: 64
+        x: 480
+        y: 1120
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,10 +779,10 @@ TextureImporter:
       name: EmissionMapHero_16
       rect:
         serializedVersion: 2
-        x: 448
-        y: 448
-        width: 64
-        height: 64
+        x: 560
+        y: 1120
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -695,10 +800,10 @@ TextureImporter:
       name: EmissionMapHero_17
       rect:
         serializedVersion: 2
-        x: 512
-        y: 448
-        width: 64
-        height: 64
+        x: 640
+        y: 1120
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -717,9 +822,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 384
-        width: 64
-        height: 64
+        y: 1040
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,10 +842,10 @@ TextureImporter:
       name: EmissionMapHero_19
       rect:
         serializedVersion: 2
-        x: 64
-        y: 384
-        width: 64
-        height: 64
+        x: 80
+        y: 1040
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,10 +863,10 @@ TextureImporter:
       name: EmissionMapHero_20
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
-        width: 64
-        height: 64
+        x: 160
+        y: 1040
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -779,10 +884,10 @@ TextureImporter:
       name: EmissionMapHero_21
       rect:
         serializedVersion: 2
-        x: 192
-        y: 384
-        width: 64
-        height: 64
+        x: 240
+        y: 1040
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -800,10 +905,10 @@ TextureImporter:
       name: EmissionMapHero_22
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
-        width: 64
-        height: 64
+        x: 320
+        y: 1040
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -821,10 +926,10 @@ TextureImporter:
       name: EmissionMapHero_23
       rect:
         serializedVersion: 2
-        x: 320
-        y: 384
-        width: 64
-        height: 64
+        x: 400
+        y: 1040
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -842,10 +947,10 @@ TextureImporter:
       name: EmissionMapHero_24
       rect:
         serializedVersion: 2
-        x: 384
-        y: 384
-        width: 64
-        height: 64
+        x: 480
+        y: 1040
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -863,10 +968,10 @@ TextureImporter:
       name: EmissionMapHero_25
       rect:
         serializedVersion: 2
-        x: 448
-        y: 384
-        width: 64
-        height: 64
+        x: 560
+        y: 1040
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -884,10 +989,10 @@ TextureImporter:
       name: EmissionMapHero_26
       rect:
         serializedVersion: 2
-        x: 512
-        y: 384
-        width: 64
-        height: 64
+        x: 640
+        y: 1040
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -906,9 +1011,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 320
-        width: 64
-        height: 64
+        y: 960
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -926,10 +1031,10 @@ TextureImporter:
       name: EmissionMapHero_28
       rect:
         serializedVersion: 2
-        x: 64
-        y: 320
-        width: 64
-        height: 64
+        x: 80
+        y: 960
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -947,10 +1052,10 @@ TextureImporter:
       name: EmissionMapHero_29
       rect:
         serializedVersion: 2
-        x: 128
-        y: 320
-        width: 64
-        height: 64
+        x: 160
+        y: 960
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -968,10 +1073,10 @@ TextureImporter:
       name: EmissionMapHero_30
       rect:
         serializedVersion: 2
-        x: 192
-        y: 320
-        width: 64
-        height: 64
+        x: 240
+        y: 960
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -989,10 +1094,10 @@ TextureImporter:
       name: EmissionMapHero_31
       rect:
         serializedVersion: 2
-        x: 256
-        y: 320
-        width: 64
-        height: 64
+        x: 320
+        y: 960
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1010,10 +1115,10 @@ TextureImporter:
       name: EmissionMapHero_32
       rect:
         serializedVersion: 2
-        x: 320
-        y: 320
-        width: 64
-        height: 64
+        x: 400
+        y: 960
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1031,10 +1136,10 @@ TextureImporter:
       name: EmissionMapHero_33
       rect:
         serializedVersion: 2
-        x: 384
-        y: 320
-        width: 64
-        height: 64
+        x: 480
+        y: 960
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1052,10 +1157,10 @@ TextureImporter:
       name: EmissionMapHero_34
       rect:
         serializedVersion: 2
-        x: 448
-        y: 320
-        width: 64
-        height: 64
+        x: 560
+        y: 960
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1073,10 +1178,10 @@ TextureImporter:
       name: EmissionMapHero_35
       rect:
         serializedVersion: 2
-        x: 512
-        y: 320
-        width: 64
-        height: 64
+        x: 640
+        y: 960
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1095,9 +1200,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
-        width: 64
-        height: 64
+        y: 880
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1115,10 +1220,10 @@ TextureImporter:
       name: EmissionMapHero_37
       rect:
         serializedVersion: 2
-        x: 64
-        y: 256
-        width: 64
-        height: 64
+        x: 80
+        y: 880
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1136,10 +1241,10 @@ TextureImporter:
       name: EmissionMapHero_38
       rect:
         serializedVersion: 2
-        x: 128
-        y: 256
-        width: 64
-        height: 64
+        x: 160
+        y: 880
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1157,10 +1262,10 @@ TextureImporter:
       name: EmissionMapHero_39
       rect:
         serializedVersion: 2
-        x: 192
-        y: 256
-        width: 64
-        height: 64
+        x: 240
+        y: 880
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1178,10 +1283,10 @@ TextureImporter:
       name: EmissionMapHero_40
       rect:
         serializedVersion: 2
-        x: 256
-        y: 256
-        width: 64
-        height: 64
+        x: 320
+        y: 880
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1199,10 +1304,10 @@ TextureImporter:
       name: EmissionMapHero_41
       rect:
         serializedVersion: 2
-        x: 320
-        y: 256
-        width: 64
-        height: 64
+        x: 400
+        y: 880
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1220,10 +1325,10 @@ TextureImporter:
       name: EmissionMapHero_42
       rect:
         serializedVersion: 2
-        x: 384
-        y: 256
-        width: 64
-        height: 64
+        x: 480
+        y: 880
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1241,10 +1346,10 @@ TextureImporter:
       name: EmissionMapHero_43
       rect:
         serializedVersion: 2
-        x: 448
-        y: 256
-        width: 64
-        height: 64
+        x: 560
+        y: 880
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1262,10 +1367,10 @@ TextureImporter:
       name: EmissionMapHero_44
       rect:
         serializedVersion: 2
-        x: 512
-        y: 256
-        width: 64
-        height: 64
+        x: 640
+        y: 880
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1284,9 +1389,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 192
-        width: 64
-        height: 64
+        y: 800
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1304,10 +1409,10 @@ TextureImporter:
       name: EmissionMapHero_46
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 64
-        height: 64
+        x: 80
+        y: 800
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1325,10 +1430,10 @@ TextureImporter:
       name: EmissionMapHero_47
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 64
-        height: 64
+        x: 160
+        y: 800
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1346,10 +1451,10 @@ TextureImporter:
       name: EmissionMapHero_48
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
-        width: 64
-        height: 64
+        x: 240
+        y: 800
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1367,10 +1472,10 @@ TextureImporter:
       name: EmissionMapHero_49
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
-        width: 64
-        height: 64
+        x: 320
+        y: 800
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1388,10 +1493,10 @@ TextureImporter:
       name: EmissionMapHero_50
       rect:
         serializedVersion: 2
-        x: 320
-        y: 192
-        width: 64
-        height: 64
+        x: 400
+        y: 800
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1409,10 +1514,10 @@ TextureImporter:
       name: EmissionMapHero_51
       rect:
         serializedVersion: 2
-        x: 384
-        y: 192
-        width: 64
-        height: 64
+        x: 480
+        y: 800
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1430,10 +1535,10 @@ TextureImporter:
       name: EmissionMapHero_52
       rect:
         serializedVersion: 2
-        x: 448
-        y: 192
-        width: 64
-        height: 64
+        x: 560
+        y: 800
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1451,10 +1556,10 @@ TextureImporter:
       name: EmissionMapHero_53
       rect:
         serializedVersion: 2
-        x: 512
-        y: 192
-        width: 64
-        height: 64
+        x: 640
+        y: 800
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1473,9 +1578,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 64
-        height: 64
+        y: 720
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1493,10 +1598,10 @@ TextureImporter:
       name: EmissionMapHero_55
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
+        x: 80
+        y: 720
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1514,10 +1619,10 @@ TextureImporter:
       name: EmissionMapHero_56
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 64
-        height: 64
+        x: 160
+        y: 720
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1535,10 +1640,10 @@ TextureImporter:
       name: EmissionMapHero_57
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
+        x: 240
+        y: 720
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1556,10 +1661,10 @@ TextureImporter:
       name: EmissionMapHero_58
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
-        width: 64
-        height: 64
+        x: 320
+        y: 720
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1577,10 +1682,10 @@ TextureImporter:
       name: EmissionMapHero_59
       rect:
         serializedVersion: 2
-        x: 320
-        y: 128
-        width: 64
-        height: 64
+        x: 400
+        y: 720
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1598,10 +1703,10 @@ TextureImporter:
       name: EmissionMapHero_60
       rect:
         serializedVersion: 2
-        x: 384
-        y: 128
-        width: 64
-        height: 64
+        x: 480
+        y: 720
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1619,10 +1724,10 @@ TextureImporter:
       name: EmissionMapHero_61
       rect:
         serializedVersion: 2
-        x: 448
-        y: 128
-        width: 64
-        height: 64
+        x: 560
+        y: 720
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1640,10 +1745,10 @@ TextureImporter:
       name: EmissionMapHero_62
       rect:
         serializedVersion: 2
-        x: 512
-        y: 128
-        width: 64
-        height: 64
+        x: 640
+        y: 720
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1662,9 +1767,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 64
-        height: 64
+        y: 640
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1682,10 +1787,10 @@ TextureImporter:
       name: EmissionMapHero_64
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
+        x: 80
+        y: 640
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1703,10 +1808,10 @@ TextureImporter:
       name: EmissionMapHero_65
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
+        x: 160
+        y: 640
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1724,10 +1829,10 @@ TextureImporter:
       name: EmissionMapHero_66
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
+        x: 240
+        y: 640
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1745,10 +1850,10 @@ TextureImporter:
       name: EmissionMapHero_67
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
+        x: 320
+        y: 640
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1766,10 +1871,10 @@ TextureImporter:
       name: EmissionMapHero_68
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
+        x: 400
+        y: 640
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1787,10 +1892,10 @@ TextureImporter:
       name: EmissionMapHero_69
       rect:
         serializedVersion: 2
-        x: 384
-        y: 64
-        width: 64
-        height: 64
+        x: 480
+        y: 640
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1808,10 +1913,10 @@ TextureImporter:
       name: EmissionMapHero_70
       rect:
         serializedVersion: 2
-        x: 448
-        y: 64
-        width: 64
-        height: 64
+        x: 560
+        y: 640
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1829,10 +1934,10 @@ TextureImporter:
       name: EmissionMapHero_71
       rect:
         serializedVersion: 2
-        x: 512
-        y: 64
-        width: 64
-        height: 64
+        x: 640
+        y: 640
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1851,9 +1956,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 64
-        height: 64
+        y: 560
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1871,10 +1976,10 @@ TextureImporter:
       name: EmissionMapHero_73
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
+        x: 80
+        y: 560
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1892,10 +1997,10 @@ TextureImporter:
       name: EmissionMapHero_74
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
+        x: 160
+        y: 560
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1913,10 +2018,10 @@ TextureImporter:
       name: EmissionMapHero_75
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
+        x: 240
+        y: 560
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1934,10 +2039,10 @@ TextureImporter:
       name: EmissionMapHero_76
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
+        x: 320
+        y: 560
+        width: 80
+        height: 80
       alignment: 9
       pivot: {x: 0.3826146, y: 0.330245}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1947,6 +2052,741 @@ TextureImporter:
       bones: []
       spriteID: 8451095a5162cbbb0800000000000000
       internalID: -4919014818581572280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7040a84a65a4af0800000000000000
+      internalID: -411421151260833879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794b762ee11777910800000000000000
+      internalID: 1835059750638171287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407025eaa6eba06f0800000000000000
+      internalID: -717551825211750652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fec3f14e8fe8c90800000000000000
+      internalID: -7165516298439561462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227b8edf64fca6ef0800000000000000
+      internalID: -114050936729979102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df075329984565210800000000000000
+      internalID: 1321336490520047869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f13a832b1b5f00800000000000000
+      internalID: 1106507972905922818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc11878fa9d7bf20800000000000000
+      internalID: 3438456188436552882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c0f43e8f0f5c920800000000000000
+      internalID: 3010076877723208815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a6df59378072240800000000000000
+      internalID: 4766788023125633648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5296a9e4d9ec5de0800000000000000
+      internalID: -1342941488200904102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256146ac14e0cb110800000000000000
+      internalID: 1277912069997598290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299eb4b43f1b39560800000000000000
+      internalID: 7319389477905623442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca39bbbaed5bb8a00800000000000000
+      internalID: 759900930110624684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faf486cd7de7aad0800000000000000
+      internalID: -2690921127873283344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7751b873005db0e0800000000000000
+      internalID: -2252556262775367811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed0e771d65fc7ab0800000000000000
+      internalID: -5008858836648456730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f31406c474b6580800000000000000
+      internalID: -8832887850799120531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5356de9ad642b34b0800000000000000
+      internalID: -5459730069835651787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a289b688c6cf44b0800000000000000
+      internalID: -5453922059166317911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1015774f376c150f0800000000000000
+      internalID: -1129903830168284927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_98
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649b2bbbab439e480800000000000000
+      internalID: -8869500014511867578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9242115a047039620800000000000000
+      internalID: 2779573369246393385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176fcaba5259a650800000000000000
+      internalID: 6244612907960592157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe60240e6eb2a8e0800000000000000
+      internalID: -1683573930958229770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac16765ed4c71c0800000000000000
+      internalID: -4504639879600026943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd43568428851720800000000000000
+      internalID: 2816306832443919838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e65adb5c103fed0800000000000000
+      internalID: -2381557829146939834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9caf9bb7a59c090800000000000000
+      internalID: -8013774574481389149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3c5b7562957a50800000000000000
+      internalID: 6518277000247656303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583149b3a3f473210800000000000000
+      internalID: 1312604927928046469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee56d39da20d550f0800000000000000
+      internalID: -1128767249134557714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e217ed5d574334e00800000000000000
+      internalID: 1027722820674548014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147f1a57240c11550800000000000000
+      internalID: 6129891959501879105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmissionMapHero_111
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3826146, y: 0.330245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f0d00fe945b930800000000000000
+      internalID: 4158311121806227906
       vertices: []
       indices: 
       edges: []

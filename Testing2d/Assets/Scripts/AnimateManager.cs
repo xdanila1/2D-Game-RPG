@@ -23,7 +23,9 @@ public class AnimateManager : MonoBehaviour
     bool isOpenInventory = false;
     bool isCloseUI = false;
     bool _triggerAttack = false;
-    
+    bool _IsMoving = true;
+
+
 
 
 
@@ -49,6 +51,7 @@ public class AnimateManager : MonoBehaviour
     {
         _rb.WakeUp();   // Возможно нагрузит систему
         Move();
+
     }
 
     private void ShowUI()
@@ -77,6 +80,7 @@ public class AnimateManager : MonoBehaviour
     }
     void Move()
     {
+        if (!_IsMoving) return;
         _rb.MovePosition(_rb.position + Speed * Time.fixedDeltaTime * _Direction.normalized);
         _movementSpeed = Mathf.Clamp(_Direction.magnitude, 0.0f, 1.0f);
     }
@@ -89,7 +93,10 @@ public class AnimateManager : MonoBehaviour
             Anim.SetFloat("Vertical", _Direction.y);
         }
         Anim.SetFloat("Speed", _movementSpeed);
-        if(_triggerAttack)Anim.SetTrigger("Attack");
+        if (Anim.GetCurrentAnimatorStateInfo(0).IsName("Blend Tree")) _IsMoving = true; // use animate tree MOVE (run or idle)
+        if (Anim.GetCurrentAnimatorStateInfo(0).IsName("Blend Tree 0")) _IsMoving = false; // use animate tree ATTACK
+        if (_triggerAttack) Anim.SetTrigger("Attack");
+
     }
 
 }
