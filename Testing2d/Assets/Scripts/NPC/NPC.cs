@@ -10,8 +10,8 @@ public class NPC : MonoBehaviour, IDamagble
     [SerializeField]
     private int _money = 1000;
 
-    [SerializeField] private Image _hpbar;
 
+    [SerializeField] private Image _hpbar;
 
     public int Health { get => _health; set => _health = Mathf.Clamp(_health,0, MaxHP); }
     public int Money { get => _money; private set => _money = value; }
@@ -24,10 +24,11 @@ public class NPC : MonoBehaviour, IDamagble
     {
         _hpbar.fillAmount = _health / MaxHP;
     }
+    [SerializeField] Collider2D AttackArea;
 
     public void AddMoney(int num) => _money += num;
     public void TakeMoney(int num) => _money -= num;
-    public void AddDamage(int num) => _health -= num;
+    //public void AddDamage(int num) => _health -= num;
     public void GetItem(AssetItem item)
     {
         Inventory.AddItem(item);
@@ -44,5 +45,9 @@ public class NPC : MonoBehaviour, IDamagble
         _health -= damage;
         _hpbar.fillAmount = _health / MaxHP;
         if (_health <= 0) Debug.Log("NPC умер");
+    }
+    public void Attack()
+    {
+        AttackArea.enabled = true;
     }
 }
