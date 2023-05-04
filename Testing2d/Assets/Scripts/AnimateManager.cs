@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class AnimateManager : MonoBehaviour
 {
+
     [Header("Movement")]
     public float Speed = 1f;
 
@@ -91,12 +92,19 @@ public class AnimateManager : MonoBehaviour
         {
             Anim.SetFloat("Horizontal", _Direction.x);
             Anim.SetFloat("Vertical", _Direction.y);
+
+
         }
         Anim.SetFloat("Speed", _movementSpeed);
         if (Anim.GetCurrentAnimatorStateInfo(0).IsName("Blend Tree")) _IsMoving = true; // use animate tree MOVE (run or idle)
         if (Anim.GetCurrentAnimatorStateInfo(0).IsName("Blend Tree 0")) _IsMoving = false; // use animate tree ATTACK
-        if (_triggerAttack) Anim.SetTrigger("Attack");
+        if (_triggerAttack)
+        {
+            Anim.SetTrigger("Attack");
+        }
 
     }
+
+
 
 }

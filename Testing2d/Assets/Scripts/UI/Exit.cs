@@ -10,4 +10,13 @@ public class Exit : MonoBehaviour
         Debug.Log("exit");
         Application.Quit();    
     }
+    public void HideObject(GameObject obj)
+    {
+        obj.SetActive(false);
+
+    }
+    public void ShowObject(GameObject obj)
+    {
+        obj.SetActive(true);
+    }
 }
