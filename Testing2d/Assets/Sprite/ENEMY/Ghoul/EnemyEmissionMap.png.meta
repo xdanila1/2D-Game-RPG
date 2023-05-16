@@ -1,0 +1,2125 @@
+fileFormatVersion: 2
+guid: e171ef6a12171c841944d568d85ee7f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4610442180624690003
+    second: EnemyEmissionMap_0
+  - first:
+      213: 6718627923684096567
+    second: EnemyEmissionMap_1
+  - first:
+      213: 6988154609908343432
+    second: EnemyEmissionMap_2
+  - first:
+      213: -7279954497714229795
+    second: EnemyEmissionMap_3
+  - first:
+      213: 1738280426777588146
+    second: EnemyEmissionMap_4
+  - first:
+      213: -8110317101916281993
+    second: EnemyEmissionMap_5
+  - first:
+      213: -6786987025370948702
+    second: EnemyEmissionMap_6
+  - first:
+      213: 3417834758193699040
+    second: EnemyEmissionMap_7
+  - first:
+      213: 6188080450646432665
+    second: EnemyEmissionMap_8
+  - first:
+      213: 5701479870244635231
+    second: EnemyEmissionMap_9
+  - first:
+      213: 7077525672000054306
+    second: EnemyEmissionMap_10
+  - first:
+      213: -3801905915900960758
+    second: EnemyEmissionMap_11
+  - first:
+      213: 1957498004532131585
+    second: EnemyEmissionMap_12
+  - first:
+      213: -4471873521355085870
+    second: EnemyEmissionMap_13
+  - first:
+      213: 2022581467094708331
+    second: EnemyEmissionMap_14
+  - first:
+      213: -2061217281642025125
+    second: EnemyEmissionMap_15
+  - first:
+      213: -7918356715228524065
+    second: EnemyEmissionMap_16
+  - first:
+      213: 896908532863830801
+    second: EnemyEmissionMap_17
+  - first:
+      213: 5810314647457654096
+    second: EnemyEmissionMap_18
+  - first:
+      213: -1885614857795534866
+    second: EnemyEmissionMap_19
+  - first:
+      213: 3449594429666950990
+    second: EnemyEmissionMap_20
+  - first:
+      213: -5643839009390559082
+    second: EnemyEmissionMap_21
+  - first:
+      213: -613445258253026747
+    second: EnemyEmissionMap_22
+  - first:
+      213: 6228630167710933605
+    second: EnemyEmissionMap_23
+  - first:
+      213: 7316775906706611018
+    second: EnemyEmissionMap_24
+  - first:
+      213: -7256067102950895399
+    second: EnemyEmissionMap_25
+  - first:
+      213: -467316556298593970
+    second: EnemyEmissionMap_26
+  - first:
+      213: 5466098096765652386
+    second: EnemyEmissionMap_27
+  - first:
+      213: 2793031392826120604
+    second: EnemyEmissionMap_28
+  - first:
+      213: 4213492432259156517
+    second: EnemyEmissionMap_29
+  - first:
+      213: 2171521567229891872
+    second: EnemyEmissionMap_30
+  - first:
+      213: 901856160229893494
+    second: EnemyEmissionMap_31
+  - first:
+      213: -1909256468923572073
+    second: EnemyEmissionMap_32
+  - first:
+      213: -6670012590409712477
+    second: EnemyEmissionMap_33
+  - first:
+      213: -3469214318034027949
+    second: EnemyEmissionMap_34
+  - first:
+      213: 5861435443731824459
+    second: EnemyEmissionMap_35
+  - first:
+      213: 3763161226659365963
+    second: EnemyEmissionMap_36
+  - first:
+      213: 2002806774874197611
+    second: EnemyEmissionMap_37
+  - first:
+      213: 5885159597395338820
+    second: EnemyEmissionMap_38
+  - first:
+      213: -2517479002979792919
+    second: EnemyEmissionMap_39
+  - first:
+      213: 7575139243663764425
+    second: EnemyEmissionMap_40
+  - first:
+      213: 5796697900330219500
+    second: EnemyEmissionMap_41
+  - first:
+      213: -4358730174423467592
+    second: EnemyEmissionMap_42
+  - first:
+      213: -5173203579852706150
+    second: EnemyEmissionMap_43
+  - first:
+      213: -4066151961042768778
+    second: EnemyEmissionMap_44
+  - first:
+      213: 3137143199408315864
+    second: EnemyEmissionMap_45
+  - first:
+      213: -4856491239037725166
+    second: EnemyEmissionMap_46
+  - first:
+      213: -145069469562069417
+    second: EnemyEmissionMap_47
+  - first:
+      213: 3174097384901890111
+    second: EnemyEmissionMap_48
+  - first:
+      213: -5841056988688644440
+    second: EnemyEmissionMap_49
+  - first:
+      213: -1403442363614555265
+    second: EnemyEmissionMap_50
+  - first:
+      213: 8449198965775636289
+    second: EnemyEmissionMap_51
+  - first:
+      213: 6729470239801460735
+    second: EnemyEmissionMap_52
+  - first:
+      213: 1995177002535728169
+    second: EnemyEmissionMap_53
+  - first:
+      213: 359361412436688181
+    second: EnemyEmissionMap_54
+  - first:
+      213: 4069827094799959227
+    second: EnemyEmissionMap_55
+  - first:
+      213: -8265913081288724816
+    second: EnemyEmissionMap_56
+  - first:
+      213: -6044354087278054788
+    second: EnemyEmissionMap_57
+  - first:
+      213: -4786043925967204510
+    second: EnemyEmissionMap_58
+  - first:
+      213: 4914129225885873478
+    second: EnemyEmissionMap_59
+  - first:
+      213: 468398542187223138
+    second: EnemyEmissionMap_60
+  - first:
+      213: -1094531407163000712
+    second: EnemyEmissionMap_61
+  - first:
+      213: 1359652369175143353
+    second: EnemyEmissionMap_62
+  - first:
+      213: 7911441817702491047
+    second: EnemyEmissionMap_63
+  - first:
+      213: 6595178338325653889
+    second: EnemyEmissionMap_64
+  - first:
+      213: 5008096703049008224
+    second: EnemyEmissionMap_65
+  - first:
+      213: 1008929808204178298
+    second: EnemyEmissionMap_66
+  - first:
+      213: 7062896611567087615
+    second: EnemyEmissionMap_67
+  - first:
+      213: -6854851249417185595
+    second: EnemyEmissionMap_68
+  - first:
+      213: -49514047466175483
+    second: EnemyEmissionMap_69
+  - first:
+      213: 8344852927990752136
+    second: EnemyEmissionMap_70
+  - first:
+      213: 6585774525466646291
+    second: EnemyEmissionMap_71
+  - first:
+      213: 3210620119826320973
+    second: EnemyEmissionMap_72
+  - first:
+      213: 112790665357138376
+    second: EnemyEmissionMap_73
+  - first:
+      213: 726433266083043761
+    second: EnemyEmissionMap_74
+  - first:
+      213: 1709583512805939619
+    second: EnemyEmissionMap_75
+  - first:
+      213: -9086625353478589641
+    second: EnemyEmissionMap_76
+  - first:
+      213: -3225082101737409373
+    second: EnemyEmissionMap_77
+  - first:
+      213: -740079379913253044
+    second: EnemyEmissionMap_78
+  - first:
+      213: 4734350123776633944
+    second: EnemyEmissionMap_79
+  - first:
+      213: -6553766407596064970
+    second: EnemyEmissionMap_80
+  - first:
+      213: 5235049527665265637
+    second: EnemyEmissionMap_81
+  - first:
+      213: 3053250188983929119
+    second: EnemyEmissionMap_82
+  - first:
+      213: -108459192447437180
+    second: EnemyEmissionMap_83
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyEmissionMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bac917cb49bff30800000000000000
+      internalID: 4610442180624690003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 800
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af531ff7c5d3d50800000000000000
+      internalID: 6718627923684096567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 800
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8826817c799eaf060800000000000000
+      internalID: 6988154609908343432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 800
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd6cb684f768fa90800000000000000
+      internalID: -7279954497714229795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 800
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1b71e96dc9f1810800000000000000
+      internalID: 1738280426777588146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 800
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773218ce09d527f80800000000000000
+      internalID: -8110317101916281993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 800
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab54996247cfc1a0800000000000000
+      internalID: -6786987025370948702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 800
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85e17aa969e6f20800000000000000
+      internalID: 3417834758193699040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 800
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bd15e426a70e550800000000000000
+      internalID: 6188080450646432665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52c8f7fbb9bf1f40800000000000000
+      internalID: 5701479870244635231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 700
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2246540b91c683260800000000000000
+      internalID: 7077525672000054306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 700
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00644d76baec3bc0800000000000000
+      internalID: -3801905915900960758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 700
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1077ca8501e6a2b10800000000000000
+      internalID: 1957498004532131585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 700
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7a72fa9b6b0f1c0800000000000000
+      internalID: -4471873521355085870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 700
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f773d027a11c10800000000000000
+      internalID: 2022581467094708331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 700
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fa4da9dc51563e0800000000000000
+      internalID: -2061217281642025125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_16
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 700
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd199ff45885c1290800000000000000
+      internalID: -7918356715228524065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_17
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 700
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b8d510f85727c00800000000000000
+      internalID: 896908532863830801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05566f2336262a050800000000000000
+      internalID: 5810314647457654096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 600
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff5e9f643f4d5e0800000000000000
+      internalID: -1885614857795534866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 600
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ff6776bdb6fdf20800000000000000
+      internalID: 3449594429666950990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 600
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69088c3c25e0da1b0800000000000000
+      internalID: -5643839009390559082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 600
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a3eaca9ca9c77f0800000000000000
+      internalID: -613445258253026747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 600
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56221b7032a807650800000000000000
+      internalID: 6228630167710933605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_24
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 600
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b5264dbe86a8560800000000000000
+      internalID: 7316775906706611018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_25
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 600
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0d6360a654d4b90800000000000000
+      internalID: -7256067102950895399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_26
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 600
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49d9286112c389f0800000000000000
+      internalID: -467316556298593970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc725224b7bdb40800000000000000
+      internalID: 5466098096765652386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 500
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c995aefe047d2c620800000000000000
+      internalID: 2793031392826120604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 500
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a8a980b05597a30800000000000000
+      internalID: 4213492432259156517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 500
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02556d43c5bc22e10800000000000000
+      internalID: 2171521567229891872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 500
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67520054669048c00800000000000000
+      internalID: 901856160229893494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 500
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790a1b07b55f085e0800000000000000
+      internalID: -1909256468923572073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_33
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 500
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acfe3563ea5f63a0800000000000000
+      internalID: -6670012590409712477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_34
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 500
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35af1eb55ffdadfc0800000000000000
+      internalID: -3469214318034027949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_35
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 500
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff4891b70085150800000000000000
+      internalID: 5861435443731824459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b440e83923f693430800000000000000
+      internalID: 3763161226659365963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 400
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e4f1286266bcb10800000000000000
+      internalID: 2002806774874197611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 400
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ea3119794ca150800000000000000
+      internalID: 5885159597395338820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 400
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e782e95f2e101dd0800000000000000
+      internalID: -2517479002979792919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_40
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 400
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb23bed10d402960800000000000000
+      internalID: 7575139243663764425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_41
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 400
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77f633702027050800000000000000
+      internalID: 5796697900330219500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_42
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 400
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b976b9fffda283c0800000000000000
+      internalID: -4358730174423467592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_43
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 400
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ea910c0c61538b0800000000000000
+      internalID: -5173203579852706150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_44
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 400
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ca947b5502297c0800000000000000
+      internalID: -4066151961042768778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddd34a5e1f598b20800000000000000
+      internalID: 3137143199408315864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 300
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161c5ae2f64a9cb0800000000000000
+      internalID: -4856491239037725166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 300
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9ff6061c9cfdf0800000000000000
+      internalID: -145069469562069417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_48
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 300
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30d29521c8ac0c20800000000000000
+      internalID: 3174097384901890111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_49
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 300
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a68664bd9560fea0800000000000000
+      internalID: -5841056988688644440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_50
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 300
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7315062b98f58ce0800000000000000
+      internalID: -1403442363614555265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_51
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 300
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14797af81b5914570800000000000000
+      internalID: 8449198965775636289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_52
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 300
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7cde16781e36d50800000000000000
+      internalID: 6729470239801460735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_53
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 300
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924bb24b9ea40bb10800000000000000
+      internalID: 1995177002535728169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d7546fc45bcf400800000000000000
+      internalID: 359361412436688181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 200
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4cfca0e2eea7830800000000000000
+      internalID: 4069827094799959227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 200
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bee785e8d3994d80800000000000000
+      internalID: -8265913081288724816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 200
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c727c136bf32e1ca0800000000000000
+      internalID: -6044354087278054788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 200
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f0f49286e849db0800000000000000
+      internalID: -4786043925967204510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_59
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 200
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645fa49ae7e723440800000000000000
+      internalID: 4914129225885873478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_60
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 200
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26851601ef5108600800000000000000
+      internalID: 468398542187223138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_61
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 200
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8787a88fb717fc0f0800000000000000
+      internalID: -1094531407163000712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_62
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 200
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e3b240a47ed210800000000000000
+      internalID: 1359652369175143353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e355aa661bcd60800000000000000
+      internalID: 7911441817702491047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_64
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 100
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189604681c7c68b50800000000000000
+      internalID: 6595178338325653889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 100
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648a0ada65508540800000000000000
+      internalID: 5008096703049008224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 100
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a732055a050700e00800000000000000
+      internalID: 1008929808204178298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_67
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 100
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff24c12c03740260800000000000000
+      internalID: 7062896611567087615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_68
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 100
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c698527b1daed0a0800000000000000
+      internalID: -6854851249417185595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_69
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 100
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50403657c37105ff0800000000000000
+      internalID: -49514047466175483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_70
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 100
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88364cb668fdec370800000000000000
+      internalID: 8344852927990752136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_71
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 100
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3179149b90f556b50800000000000000
+      internalID: 6585774525466646291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e48f60df96e8c20800000000000000
+      internalID: 3210620119826320973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c997963386b09100800000000000000
+      internalID: 112790665357138376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_74
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b918e9e43fc41a00800000000000000
+      internalID: 726433266083043761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a999aaa529a9b710800000000000000
+      internalID: 1709583512805939619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_76
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733b9de4262d5e180800000000000000
+      internalID: -9086625353478589641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_77
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4b87a6ae43e33d0800000000000000
+      internalID: -3225082101737409373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_78
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fddae99b5bab5f0800000000000000
+      internalID: -740079379913253044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_79
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c680a9a5ac3b140800000000000000
+      internalID: 4734350123776633944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_80
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f3956fc285c05a0800000000000000
+      internalID: -6553766407596064970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_81
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb80161fc1a6a840800000000000000
+      internalID: 5235049527665265637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_82
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1908ccbed25f5a20800000000000000
+      internalID: 3053250188983929119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyEmissionMap_83
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4132189, y: 0.4246234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4867b8960fcae7ef0800000000000000
+      internalID: -108459192447437180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
