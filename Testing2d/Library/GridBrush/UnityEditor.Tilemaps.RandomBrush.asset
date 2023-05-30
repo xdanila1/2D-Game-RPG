@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Random Brush
   m_EditorClassIdentifier: 
   m_Cells:
-  - m_Tile: {fileID: 0}
+  - m_Tile: {fileID: 11400000, guid: af25b35b74999e4458a58f536f6470c6, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -37,6 +37,88 @@ MonoBehaviour:
   m_CanChangeZPosition: 0
   m_FloodFillContiguousOnly: 1
   randomTileSetSize: {x: 1, y: 1, z: 1}
-  randomTileSets: []
-  pickRandomTiles: 0
-  addToRandomTiles: 0
+  randomTileSets:
+  - randomTiles:
+    - {fileID: 11400000, guid: af25b35b74999e4458a58f536f6470c6, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 4f792c1bd97032241a442430a11a5c2e, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 8edee668d1c16364f97de37965972c35, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 7af7908e76eb5894f8b78348c1da73d4, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: adbfadd8bebdb4743a9b7205a3d265de, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 028edf0a22bad5042b89e1e863a5d3db, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 1372aadb6c4575742adf0eea9350ba0b, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 94f6c7371625eeb4ba621215035ffced, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: b584fe6bc40a6904c86ca1cc1f91628e, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: b9de5e65bce294f4ca24697dc4d3fba7, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 71b22e90eafc0aa41b70bda01df7c761, type: 2}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 11400000, guid: adbfadd8bebdb4743a9b7205a3d265de, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 4f792c1bd97032241a442430a11a5c2e, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: f7296ceae6025e448bb19d7c2e963605, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 8edee668d1c16364f97de37965972c35, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 7af7908e76eb5894f8b78348c1da73d4, type: 2}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 0}
+  - randomTiles:
+    - {fileID: 11400000, guid: af25b35b74999e4458a58f536f6470c6, type: 2}
+  pickRandomTiles: 1
+  addToRandomTiles: 1
