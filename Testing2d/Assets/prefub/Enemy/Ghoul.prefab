@@ -28,7 +28,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 943343797548191971}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.26, y: 0.211, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 943343798188246101}
@@ -157,7 +157,7 @@ MonoBehaviour:
   - {x: -0.102924824, y: 0.015626907, z: 0}
   m_ShapePathHash: -2063734081
   m_Mesh: {fileID: 0}
-  m_InstanceId: 20704
+  m_InstanceId: 44090
 --- !u!1 &943343797972725512
 GameObject:
   m_ObjectHideFlags: 0
@@ -278,7 +278,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.016327798, y: 0.5551419}
+  m_Offset: {x: -0.26393616, y: 0.72968566}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -289,7 +289,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.5754796, y: 1.2122602}
+  m_Size: {x: 0.5673616, y: 1.236615}
   m_EdgeRadius: 0
 --- !u!114 &943343798096900817
 MonoBehaviour:
@@ -304,7 +304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MaxHealth: 100
-  _anim: {fileID: 0}
+  _anim: {fileID: 943343797548191969}
   _hpBar: {fileID: 0}
 --- !u!1 &943343798188246102
 GameObject:
@@ -376,6 +376,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _target: {fileID: 0}
+  _anim: {fileID: 943343797548191969}
 --- !u!1 &943343798755666116
 GameObject:
   m_ObjectHideFlags: 0

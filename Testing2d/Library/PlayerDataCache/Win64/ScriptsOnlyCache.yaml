@@ -6,11 +6,13 @@ ScriptsOnlyBuild:
     - AssetItem
     - AsyncLightStart
     - AttackZone
+    - Enemy
     - Exit
     - Inventory
     - InventoryCell
     - ItemsDisplay
     - NPC
+    - NavMeshAgentEnemy
     - Pause
     - ResetShadowCaster
     - TEEStDELETE
@@ -22,6 +24,12 @@ ScriptsOnlyBuild:
     - Cinemachine.CinemachinePipeline
     - Cinemachine.CinemachinePixelPerfect
     - Cinemachine.CinemachineVirtualCamera
+    NavMeshPlus.dll:
+    - NavMeshPlus.Components.NavMeshModifier
+    - NavMeshPlus.Components.NavMeshSurface
+    - NavMeshPlus.Extensions.CollectSources2d
+    NavMeshPlusEditor.dll:
+    - NavMeshPlus.Editors.Components.NavMeshAssetManager
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
@@ -31,12 +39,9 @@ ScriptsOnlyBuild:
     - UnityEngine.U2D.PixelPerfectCamera
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
-    - UnityEditor.Tilemaps.GridPaintPaletteClipboard
-    - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
     - UnityEditor.Tilemaps.GridPalettes
-    - UnityEditor.Tilemaps.PaintableSceneViewGrid
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -151,6 +156,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 61
       Script: {instanceID: 0}
+    - Class: 70
+      Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
@@ -162,9 +169,7 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 782}
-    - Class: 114
-      Script: {instanceID: 1622}
+      Script: {instanceID: 784}
     - Class: 114
       Script: {instanceID: 1624}
     - Class: 114
@@ -174,150 +179,164 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1630}
     - Class: 114
-      Script: {instanceID: 1638}
+      Script: {instanceID: 1632}
     - Class: 114
-      Script: {instanceID: 1780}
+      Script: {instanceID: 1640}
     - Class: 114
-      Script: {instanceID: 2002}
+      Script: {instanceID: 1786}
     - Class: 114
-      Script: {instanceID: 2212}
+      Script: {instanceID: 2008}
     - Class: 114
-      Script: {instanceID: 2372}
+      Script: {instanceID: 2218}
     - Class: 114
-      Script: {instanceID: 2462}
+      Script: {instanceID: 2374}
     - Class: 114
-      Script: {instanceID: 2482}
+      Script: {instanceID: 2384}
     - Class: 114
-      Script: {instanceID: 2620}
+      Script: {instanceID: 2474}
     - Class: 114
-      Script: {instanceID: 2682}
+      Script: {instanceID: 2494}
     - Class: 114
-      Script: {instanceID: 2746}
+      Script: {instanceID: 2632}
     - Class: 114
-      Script: {instanceID: 3052}
+      Script: {instanceID: 2694}
     - Class: 114
-      Script: {instanceID: 3102}
+      Script: {instanceID: 2760}
     - Class: 114
-      Script: {instanceID: 3150}
+      Script: {instanceID: 3066}
     - Class: 114
-      Script: {instanceID: 3216}
+      Script: {instanceID: 3116}
     - Class: 114
-      Script: {instanceID: 3278}
+      Script: {instanceID: 3166}
     - Class: 114
-      Script: {instanceID: 3304}
+      Script: {instanceID: 3232}
     - Class: 114
-      Script: {instanceID: 3368}
+      Script: {instanceID: 3294}
     - Class: 114
-      Script: {instanceID: 3376}
+      Script: {instanceID: 3320}
     - Class: 114
-      Script: {instanceID: 3412}
+      Script: {instanceID: 3384}
     - Class: 114
-      Script: {instanceID: 3492}
+      Script: {instanceID: 3392}
     - Class: 114
-      Script: {instanceID: 3516}
+      Script: {instanceID: 3428}
     - Class: 114
-      Script: {instanceID: 3612}
+      Script: {instanceID: 3508}
     - Class: 114
-      Script: {instanceID: 4020}
+      Script: {instanceID: 3532}
     - Class: 114
-      Script: {instanceID: 4154}
+      Script: {instanceID: 3628}
     - Class: 114
-      Script: {instanceID: 4160}
+      Script: {instanceID: 3770}
     - Class: 114
-      Script: {instanceID: 4186}
+      Script: {instanceID: 4038}
     - Class: 114
-      Script: {instanceID: 4288}
+      Script: {instanceID: 4172}
     - Class: 114
-      Script: {instanceID: 4332}
+      Script: {instanceID: 4178}
     - Class: 114
-      Script: {instanceID: 4438}
+      Script: {instanceID: 4204}
     - Class: 114
-      Script: {instanceID: 4828}
+      Script: {instanceID: 4306}
     - Class: 114
-      Script: {instanceID: 4966}
+      Script: {instanceID: 4352}
     - Class: 114
-      Script: {instanceID: 5104}
+      Script: {instanceID: 4458}
     - Class: 114
-      Script: {instanceID: 5136}
+      Script: {instanceID: 4854}
     - Class: 114
-      Script: {instanceID: 5146}
+      Script: {instanceID: 4992}
     - Class: 114
-      Script: {instanceID: 5158}
+      Script: {instanceID: 5130}
     - Class: 114
-      Script: {instanceID: 5186}
+      Script: {instanceID: 5162}
     - Class: 114
-      Script: {instanceID: 5208}
+      Script: {instanceID: 5172}
     - Class: 114
-      Script: {instanceID: 5214}
+      Script: {instanceID: 5184}
     - Class: 114
-      Script: {instanceID: 5316}
+      Script: {instanceID: 5212}
     - Class: 114
-      Script: {instanceID: 5404}
+      Script: {instanceID: 5234}
     - Class: 114
-      Script: {instanceID: 5406}
+      Script: {instanceID: 5240}
     - Class: 114
-      Script: {instanceID: 5430}
+      Script: {instanceID: 5344}
     - Class: 114
-      Script: {instanceID: 5446}
+      Script: {instanceID: 5366}
     - Class: 114
-      Script: {instanceID: 5696}
+      Script: {instanceID: 5440}
     - Class: 114
-      Script: {instanceID: 5778}
+      Script: {instanceID: 5442}
     - Class: 114
-      Script: {instanceID: 5814}
+      Script: {instanceID: 5466}
     - Class: 114
-      Script: {instanceID: 5964}
+      Script: {instanceID: 5482}
     - Class: 114
-      Script: {instanceID: 5972}
+      Script: {instanceID: 5740}
     - Class: 114
-      Script: {instanceID: 6036}
+      Script: {instanceID: 5822}
     - Class: 114
-      Script: {instanceID: 6042}
+      Script: {instanceID: 5858}
     - Class: 114
-      Script: {instanceID: 6144}
+      Script: {instanceID: 6008}
     - Class: 114
-      Script: {instanceID: 6178}
+      Script: {instanceID: 6016}
     - Class: 114
-      Script: {instanceID: 6224}
+      Script: {instanceID: 6080}
     - Class: 114
-      Script: {instanceID: 6278}
+      Script: {instanceID: 6086}
     - Class: 114
-      Script: {instanceID: 6286}
+      Script: {instanceID: 6102}
     - Class: 114
-      Script: {instanceID: 6396}
+      Script: {instanceID: 6192}
     - Class: 114
-      Script: {instanceID: 6538}
+      Script: {instanceID: 6226}
     - Class: 114
-      Script: {instanceID: 6644}
+      Script: {instanceID: 6272}
     - Class: 114
-      Script: {instanceID: 6698}
+      Script: {instanceID: 6326}
     - Class: 114
-      Script: {instanceID: 6756}
+      Script: {instanceID: 6334}
     - Class: 114
-      Script: {instanceID: 6840}
+      Script: {instanceID: 6446}
     - Class: 114
-      Script: {instanceID: 7156}
+      Script: {instanceID: 6588}
     - Class: 114
-      Script: {instanceID: 7306}
+      Script: {instanceID: 6696}
     - Class: 114
-      Script: {instanceID: 7582}
+      Script: {instanceID: 6750}
     - Class: 114
-      Script: {instanceID: 7614}
+      Script: {instanceID: 6808}
     - Class: 114
-      Script: {instanceID: 7762}
+      Script: {instanceID: 6892}
     - Class: 114
-      Script: {instanceID: 7778}
+      Script: {instanceID: 6956}
     - Class: 114
-      Script: {instanceID: 7806}
+      Script: {instanceID: 7214}
     - Class: 114
-      Script: {instanceID: 7850}
+      Script: {instanceID: 7368}
     - Class: 114
-      Script: {instanceID: 7970}
+      Script: {instanceID: 7648}
+    - Class: 114
+      Script: {instanceID: 7682}
+    - Class: 114
+      Script: {instanceID: 7830}
+    - Class: 114
+      Script: {instanceID: 7846}
+    - Class: 114
+      Script: {instanceID: 7874}
+    - Class: 114
+      Script: {instanceID: 7918}
+    - Class: 114
+      Script: {instanceID: 8038}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
       Script: {instanceID: 0}
     - Class: 157
+      Script: {instanceID: 0}
+    - Class: 195
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
@@ -330,6 +349,8 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 238
       Script: {instanceID: 0}
     - Class: 19719996
       Script: {instanceID: 0}
@@ -500,6 +521,12 @@ ScriptsOnlyBuild:
     className: PlaymodeTestsController
   - hash:
       serializedVersion: 2
+      Hash: 3becba6e852a059e3b0bffedefe213b8
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Extensions
+    className: RootSources2d
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.2D.PixelPerfect.dll
     namespaceName: UnityEngine.U2D
@@ -510,6 +537,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: b36e060cc20388e7642c7b309a420055
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Enemy
   - hash:
       serializedVersion: 2
       Hash: 5e1eefcd5106de6c2e85908a3b2d3f04
@@ -686,6 +719,12 @@ ScriptsOnlyBuild:
     className: CinemachineMixingCamera
   - hash:
       serializedVersion: 2
+      Hash: 881194c1bfb5b661e028963b25af6f8e
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Extensions
+    className: AgentRotateSmooth2d
+  - hash:
+      serializedVersion: 2
       Hash: 69415240821be7986b27e72bf9609a30
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -798,6 +837,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: e8f74c38c848876ecb555fbcedacb2a3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: NavMeshAgentEnemy
   - hash:
       serializedVersion: 2
       Hash: a66794b62dbf044668a5f102bb7908c2
@@ -1124,6 +1169,12 @@ ScriptsOnlyBuild:
     className: DebugUIHandlerIndirectToggle
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Extensions
+    className: AgentOverride2d
+  - hash:
+      serializedVersion: 2
       Hash: 0c9920fb850aff7b5ec756815b7a6fc1
     assemblyName: Unity.RenderPipelines.Universal.Runtime.dll
     namespaceName: UnityEngine.Rendering.Universal
@@ -1136,16 +1187,28 @@ ScriptsOnlyBuild:
     className: Exit
   - hash:
       serializedVersion: 2
-      Hash: 8d35f16c5022311c6f4d9432be73bfcf
-    assemblyName: Unity.RenderPipelines.Core.Runtime.dll
-    namespaceName: UnityEngine.Rendering.UI
-    className: DebugUIHandlerUIntField
+      Hash: 2b19be13f00df62e6d4d4f5539bcad51
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Components
+    className: NavMeshModifier
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Extensions
+    className: CollectSourcesCache2d
   - hash:
       serializedVersion: 2
       Hash: 8d35f16c5022311c6f4d9432be73bfcf
     assemblyName: Unity.RenderPipelines.Core.Runtime.dll
     namespaceName: UnityEngine.Rendering.UI
     className: DebugUIHandlerFloatField
+  - hash:
+      serializedVersion: 2
+      Hash: 8d35f16c5022311c6f4d9432be73bfcf
+    assemblyName: Unity.RenderPipelines.Core.Runtime.dll
+    namespaceName: UnityEngine.Rendering.UI
+    className: DebugUIHandlerUIntField
   - hash:
       serializedVersion: 2
       Hash: 15882a52798c275361cd0a3ada984ec5
@@ -1182,6 +1245,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.RenderPipelines.Universal.Runtime.dll
     namespaceName: UnityEngine.Rendering.Universal
     className: ColorCurves
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Extensions
+    className: AgentRotate2d
   - hash:
       serializedVersion: 2
       Hash: 63bdc2cf3273aa9bf650350f19d2af61
@@ -1272,6 +1341,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.RenderPipelines.Core.Runtime.dll
     namespaceName: UnityEngine.Rendering.UI
     className: DebugUIHandlerIntField
+  - hash:
+      serializedVersion: 2
+      Hash: b0e736f30d8d62484930a0a1b9c6c94b
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Components
+    className: NavMeshSurface
   - hash:
       serializedVersion: 2
       Hash: 36112b0a16753cab0931521e4de67ef6
@@ -1442,7 +1517,7 @@ ScriptsOnlyBuild:
     className: PlayModeRunnerCallback
   - hash:
       serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+      Hash: e448f7b5d1e15e0b1b0c1bdaed63dd4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: AttackZone
@@ -1458,6 +1533,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c0f6995277fdfa1b4834e24282c556a6
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Extensions
+    className: CollectSources2d
   - hash:
       serializedVersion: 2
       Hash: 7c792393fb82488bd20139dcc5ba26d8
@@ -1520,6 +1601,12 @@ ScriptsOnlyBuild:
     className: AssetItem
   - hash:
       serializedVersion: 2
+      Hash: 7299a528424874bcf6b5736b5305ac37
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Components
+    className: NavMeshModifierVolume
+  - hash:
+      serializedVersion: 2
       Hash: 48982140c520cbca517d0f96b60a0ba9
     assemblyName: Unity.RenderPipelines.Universal.Runtime.dll
     namespaceName: UnityEngine.Rendering.Universal
@@ -1572,6 +1659,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.RenderPipelines.Universal.Runtime.dll
     namespaceName: UnityEngine.Rendering.Universal
     className: PaniniProjection
+  - hash:
+      serializedVersion: 2
+      Hash: c8c672fee8a258266e51b55a210b8083
+    assemblyName: NavMeshPlus.dll
+    namespaceName: NavMeshPlus.Components
+    className: NavMeshLink
   - hash:
       serializedVersion: 2
       Hash: 28cfb4bd305dd11c6326cc3ee7c14138
@@ -1683,4 +1776,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Kekc/Desktop/BILDS/16.05/Testing2d.exe
+  playerPath: C:/Users/Kekc/Desktop/BILDS/31 05/Testing2d.exe

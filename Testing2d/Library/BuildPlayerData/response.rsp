@@ -5,6 +5,7 @@
 -a="E:\UnityHub\Projects\Learning\Diplom\Testing2d\Library\PlayerScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll"
 -a="E:\UnityHub\Projects\Learning\Diplom\Testing2d\Library\PlayerScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll"
 -a="E:\UnityHub\Projects\Learning\Diplom\Testing2d\Library\PlayerScriptAssemblies\UnityEngine.TestRunner.dll"
+-a="E:\UnityHub\Projects\Learning\Diplom\Testing2d\Library\PlayerScriptAssemblies\NavMeshPlus.dll"
 -a="E:\UnityHub\Projects\Learning\Diplom\Testing2d\Library\PlayerScriptAssemblies\Unity.Timeline.dll"
 -a="E:\UnityHub\Projects\Learning\Diplom\Testing2d\Library\PlayerScriptAssemblies\Unity.TextMeshPro.dll"
 -a="E:\UnityHub\Projects\Learning\Diplom\Testing2d\Library\PlayerScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll"

@@ -25,8 +25,9 @@ public class Enemy : MonoBehaviour, IDamagble
 
     public void Dead()
     {
-        //добавить триггер на смерть для анимации
-        Destroy(transform.parent.gameObject);
+        _anim.SetBool("Dead", true);
+
+        Destroy(transform.parent.gameObject, 5f);
 
     }
 

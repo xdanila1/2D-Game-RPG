@@ -21,12 +21,14 @@ public class NavMeshAgentEnemy : MonoBehaviour
     // Update is called once per frame
     private void FixedUpdate()
     {
-        _agent.SetDestination(_target.transform.position);
+        if (!_anim.GetBool("Dead")) _agent.SetDestination(_target.transform.position);
+        else Destroy(this);
         if (_agent.velocity != Vector3.zero)
         {
 
             _anim.SetFloat("Vertical", _agent.velocity.y);
             _anim.SetFloat("Horizontal", _agent.velocity.x);
         }
+
     }
 }
