@@ -37,7 +37,6 @@ public class AnimateManager : MonoBehaviour
 
         _rb = GetComponent<Rigidbody2D>();
 
-
     }
     // Update is called once per frame
     void Update()
@@ -76,8 +75,12 @@ public class AnimateManager : MonoBehaviour
         _triggerAttack = Input.GetKeyDown(KeyCode.Space);
         isOpenInventory = Input.GetKeyDown(KeyCode.Tab);
         isCloseUI = Input.GetKeyDown(KeyCode.Escape);
+        if(_IsMoving)
+        {
+
         _Direction.x = Input.GetAxisRaw("Horizontal");
         _Direction.y = Input.GetAxisRaw("Vertical");
+        }
     }
     void Move()
     {
@@ -92,9 +95,10 @@ public class AnimateManager : MonoBehaviour
         {
             Anim.SetFloat("Horizontal", _Direction.x);
             Anim.SetFloat("Vertical", _Direction.y);
-
+            if (Anim.GetBool("Dead")) Speed = 0;
 
         }
+        print(_movementSpeed);
         Anim.SetFloat("Speed", _movementSpeed);
         if (Anim.GetCurrentAnimatorStateInfo(0).IsName("Blend Tree")) _IsMoving = true; // use animate tree MOVE (run or idle)
         if (Anim.GetCurrentAnimatorStateInfo(0).IsName("Blend Tree 0")) _IsMoving = false; // use animate tree ATTACK

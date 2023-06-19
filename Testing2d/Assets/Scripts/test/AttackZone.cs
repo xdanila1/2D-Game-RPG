@@ -12,9 +12,9 @@ public class AttackZone : MonoBehaviour
     {
         if ((Layer.value & (1 << collision.gameObject.layer)) > 0)
         {
-            print("Враг задет");
+            
             IDamagble damagble = collision.GetComponent<IDamagble>();
-            damagble.GetDamage(30);
+            damagble?.GetDamage(30);
         }
         else print("Это не противник");
 
