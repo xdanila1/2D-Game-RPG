@@ -16,3 +16,7 @@
 <h1>TileRoule</h1>
 
 ![53535](https://github.com/xdanila1/2D-Game-RPG/assets/47712377/06a9f2fe-2104-4885-a7fa-c794b82c5f5a)
+
+<h1>AI, NavMesh</h1>
+
+![53535](https://github.com/xdanila1/2D-Game-RPG/assets/47712377/4cefe831-ca9a-4837-b87c-11e843e483cd)
